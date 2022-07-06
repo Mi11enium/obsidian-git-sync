@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "0ebe0debfb5d4488",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef804586734cbfd8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Тестирование ПО.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0648ad5a196374b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "369dbac44da2cfef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3692602d870f32c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fc921fe84ad425d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7b0e0b3ea328380b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d8bdef9c28922f42",
+    "type": "split",
+    "children": [
+      {
+        "id": "2552bb175e776724",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36be35dcc256a05e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Тестирование ПО.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4207e112d4b160e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9b7d3ca86c9037e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Тестирование ПО.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ef804586734cbfd8",
+  "lastOpenFiles": [
+    "Тестирование ПО.md",
+    "SDLC.md"
+  ]
+}
