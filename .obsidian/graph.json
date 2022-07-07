@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:\"Цифровая грамотность/Интернет и поиск\"",
@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 7368038
       }
+    },
+    {
+      "query": "path:\"Компьютерные сети\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701276
+      }
     }
   ],
   "collapse-display": true,
@@ -32,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.0353546248726577,
-  "close": false
+  "scale": 0.7384930490343303,
+  "close": true
 }
