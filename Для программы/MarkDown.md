@@ -42,22 +42,5 @@
 }  
 ```
 
-Список задач
-- [ ] Write the press release  
-- [ ] Update the website  
-- [ ] Contact the media
-
 Эмоджи
 That is so funny! :joy:
-
-Выделение
-I need to highlight these ==very important words==.
-
-
-Definition Lists
-First Term
-: This is the definition of the first term.
-
-Second Term
-: This is one definition of the second term.
-: This is another definition of the second term.
