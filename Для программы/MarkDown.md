@@ -28,3 +28,21 @@
 ## Расширенный синтаксис
 
 таблица
+| синтаксис | Описание |
+| ----------- | ---------- |
+| Header | Title |
+| Paragraph | Text |
+
+Блок кода в границах
+```  
+{  
+  "firstName": "John",  
+  "lastName": "Smith",  
+  "age": 25  
+}  
+```
+
+Список задач
+- [ ] Write the press release  
+- [ ] Update the website  
+- [ ] Contact the media
