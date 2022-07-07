@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Для программы/MarkDown.md",
+            "file": "Компьютерные сети/Модели/OSI Модель.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Для программы/MarkDown.md",
+                "file": "Компьютерные сети/Модели/OSI Модель.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Для программы/MarkDown.md"
+                "file": "Компьютерные сети/Модели/OSI Модель.md"
               }
             }
           }
@@ -114,14 +114,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "active": "f0972f62560f362c",
   "lastOpenFiles": [
-    "Для программы/MarkDown.md",
-    "Компьютерные сети/Модели/Модель.md",
     "Компьютерные сети/Модели/OSI Модель.md",
+    "Компьютерные сети/Модели/Модель.md",
+    "Для программы/MarkDown.md",
     "Цифровая грамотность/Pasted image 20210814160529.png",
     "Цифровая грамотность/Академическая грамотность/Академическая грамотность.md",
     "Цифровая грамотность/Интернет и поиск/HTTP.md",
