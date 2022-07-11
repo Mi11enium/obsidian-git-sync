@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Цифровая грамотность/Интернет и поиск/NSFNET.md",
+            "file": "Компьютерные сети/Модели/TCPIP Модель.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcard",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Цифровая грамотность/Интернет и поиск/NSFNET.md",
+                "file": "Компьютерные сети/Модели/TCPIP Модель.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Цифровая грамотность/Интернет и поиск/NSFNET.md"
+                "file": "Компьютерные сети/Модели/TCPIP Модель.md"
               }
             }
           },
@@ -127,8 +126,8 @@
   },
   "active": "f0972f62560f362c",
   "lastOpenFiles": [
-    "Цифровая грамотность/Интернет и поиск/NSFNET.md",
     "Компьютерные сети/Модели/TCPIP Модель.md",
+    "Цифровая грамотность/Интернет и поиск/NSFNET.md",
     "Цифровая грамотность/Интернет и поиск/Интернет вещей.md",
     "Цифровая грамотность/Интернет и поиск/Всемирная паутина (WWW).md",
     "Компьютерные сети/Модели/OSI Модель.md",
