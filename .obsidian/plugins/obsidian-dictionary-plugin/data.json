@@ -1,13 +1,13 @@
 {
   "getLangFromFile": true,
-  "defaultLanguage": "en_US",
-  "normalLang": "en_US",
+  "defaultLanguage": "ru",
+  "normalLang": "ru",
   "shouldShowSynonymPopover": true,
   "shouldShowCustomContextMenu": false,
   "apiSettings": {
     "en_US": {
-      "definitionApiName": "Free Dictionary API",
-      "synonymApiName": "Free Dictionary API"
+      "definitionApiName": "Google",
+      "synonymApiName": "Google"
     },
     "hi": {
       "definitionApiName": "Free Dictionary API",
