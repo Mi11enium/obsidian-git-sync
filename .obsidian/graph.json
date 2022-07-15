@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -27,6 +27,13 @@
         "a": 1,
         "rgb": 14701276
       }
+    },
+    {
+      "query": "path:Битрикс",
+      "color": {
+        "a": 1,
+        "rgb": 16384000
+      }
     }
   ],
   "collapse-display": false,
@@ -39,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7384930490343379,
-  "close": true
+  "scale": 0.7384930490343387,
+  "close": false
 }
