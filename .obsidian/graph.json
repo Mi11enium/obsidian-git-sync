@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -18,7 +18,7 @@
       "query": "path:\"Тестирование программного обеспечения\"",
       "color": {
         "a": 1,
-        "rgb": 7368038
+        "rgb": 11993390
       }
     },
     {
@@ -32,7 +32,14 @@
       "query": "path:Битрикс",
       "color": {
         "a": 1,
-        "rgb": 16384000
+        "rgb": 5526612
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.7384930490343393,
+  "scale": 0.5267489711934275,
   "close": false
 }
