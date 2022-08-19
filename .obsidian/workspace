@@ -9,7 +9,7 @@
         "state": {
           "type": "image",
           "state": {
-            "file": "Менеджмент/Picture/ScrumteamPM.png"
+            "file": "Менеджмент/Picture/ScrumTeamPM.png"
           }
         }
       }
@@ -75,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Менеджмент/Picture/ScrumteamPM.png",
+                "file": "Менеджмент/Picture/ScrumTeamPM.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Менеджмент/Picture/ScrumteamPM.png"
+                "file": "Менеджмент/Picture/ScrumTeamPM.png"
               }
             }
           },
@@ -122,17 +122,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fde36bd36eb687a2",
+  "active": "a5005e377ebd9acc",
   "lastOpenFiles": [
     "Менеджмент/Picture/ScrumteamPM.png",
+    "Менеджмент/Picture/Project.png",
+    "Менеджмент/Picture/Lean Startup.png",
+    "Менеджмент/Picture/Kanban.png",
+    "Менеджмент/Picture/ScrumTeamPM.png",
+    "Настройка SEO данных в инфоблоке.md",
     "Менеджмент/Управление проектами/6. SCRUM Фреймворк.md",
     "Тестирование программного обеспечения/Методологии разработки/Agile/Фреймворки/Scrum.md",
     "Тестирование программного обеспечения/Глоссарий.md",
-    "Менеджмент/Управление проектами/2. Что такое артефакт проекта.md",
-    "Менеджмент/Управление проектами/5. Циклы разработки ПО.md",
-    "Менеджмент/Управление проектами/1. Что такое проект.md",
-    "Менеджмент/Управление проектами/4. Философии, Методологии и Фреймворки.md",
-    "Менеджмент/Управление проектами/3. Рабочая среда менеджера.md",
-    "Тестирование программного обеспечения/Методологии разработки/Agile/Agile - философия.md"
+    "Менеджмент/Управление проектами/2. Что такое артефакт проекта.md"
   ]
 }
