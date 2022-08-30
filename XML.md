@@ -815,3 +815,49 @@ XML схема является основанной на XML альтернат
 -   Вы можете использовать тот же XML парсер для разбора файлов XML схем
 -   Вы можете манипулировать XML схемами при помощи XML DOM
 -   Вы можете трансформировать XML схемы при помощи XSLT
+***
+# XML парсер
+Все современные браузеры имеют встроенный XML парсер.
+
+Этот XML парсер преобразует XML документ в объект XML DOM, которым затем можно манипулировать при помощи JavaScript.
+***
+### Объект XMLHttpRequest
+Объект XMLHttpRequest позволяет обмениваться данными в фоновом режиме.
+
+Это настоящая сбывшаяся мечта разработчика, потому что вы можете:
+
+-   Обновлять содержимое веб-страницы не перезагружая веб-страницу
+-   Запрашивать данные с сервера, когда веб-страница уже загружена
+-   Получать данные с сервера, когда веб-страница уже загружена
+-   Посылать данные на сервер в фоновом режиме
+***
+### Создание объекта XMLHttpRequest
+Все современные браузеры (IE7+, Firefox, Chrome, Safari, Opera) уже имеют встроенный объект XMLHttpRequest.
+
+Объект XMLHttpRequest создается следующим образом:
+~~~xml
+xmlhttp = new XMLHttpRequest();
+~~~
+### Работа с объектом XMLHttpRequest
+Типичный синтаксис JavaScript для работы с объектом XMLHttpRequest выглядит следующим образом:
+~~~javascript
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+		if (this.readyState == 4 && this.status == 200) {
+			// Typical action to be performed when the document is ready:
+			document.getElementById("demo").innerHTML = xhttp.responseText;
+		} 
+	};
+xhttp.open("GET", "filename", true);
+xhttp.send();
+~~~
+
+В строке **var xhttp = new XMLHttpRequest();** создается объект XMLHttpRequest.
+
+В строке **xhttp.onreadystatechange = function()** свойство **onreadystatechange** определяет функцию, которая будет выполняться каждый раз, когда статус объекта XMLHttpRequest изменится.
+
+Строка **if (this.readyState == 4 && this.status == 200)**. Когда свойство **readyState** равно 4, и свойство **status** равно 200, ответ готов.
+
+Свойство **responseText** возвращает ответ сервера в виде текстовой строки.
+
+Эта текстовая строка может использоваться для изменения кода веб-страницы. Строка **document.getElementById("demo").innerHTML = xhttp.responseText;**.
