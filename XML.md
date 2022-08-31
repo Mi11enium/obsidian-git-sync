@@ -902,3 +902,31 @@ else // Internet Explorer
 	xmlDoc.loadXML(txt);
 }
 ~~~
+Замечение: Браузер Internet Explorer использует метод _**loadXML()**_ для парсинга XML строки, в то время, как остальные браузеры используют объект **_DOMParser_**.
+***
+### Доступ к данным на других доменах
+Из-за соображения безопасности современные браузеры не допускают возможности обращаться к данным на других доменах.
+
+Это означает, что веб-страница и XML файл, который она пытается загрузить, должны находиться на одном и том же сервере.
+***
+# XML DOM
+Объектная модель документа (DOM) определяет стандартный **способ доступа к элементам документа и манипулирования ими**.
+
+XML DOM представляет XML документ в виде древовидной структуры.
+
+При помощи дерева DOM можно получить доступ ко всем элементам документа. Можно изменять и удалять содержимое (текст и атрибуты) элементов, создавать новые элементы. Элементы, их текст и атрибуты формируют, так называемые, узлы DOM.
+***
+### HTML DOM
+HTML DOM определяет стандартный способ доступа к элементам HTML документа и манипулирования ими.
+
+При помощи дерева HTML DOM можно получить доступ ко всем элементам HTML документа.
+***
+### Загрузка XML файла
+В следующем примере парсится XML документ в объект XML DOM, из которого затем при помощи Javascript извлекается некоторая информация:
+~~~html
+  
+<html>
+<body>
+	<h1>Заметка</h1>
+		<div>
+			<b>Кому:</b> <span id="to"></span><br /> <b>От:</b> <span id="from"></span><br /> <b>Сообщение:</b> <span id="message"></span> </div> <script> if (window.XMLHttpRequest) { // для IE7+, Firefox, Chrome, Opera, Safari xmlhttp = new XMLHttpRequest(); } else { // для IE6, IE5 xmlhttp = new ActiveXObject("Microsoft.XMLHTTP"); } xmlhttp.open("GET","note.xml",false); xmlhttp.send(); xmlDoc = xmlhttp.responseXML; document.getElementById("to").innerHTML = xmlDoc.getElementsByTagName("to")[0].childNodes[0].nodeValue; document.getElementById("from").innerHTML = xmlDoc.getElementsByTagName("from")[0].childNodes[0].nodeValue; document.getElementById("message").innerHTML = xmlDoc.getElementsByTagName("body")[0].childNodes[0].nodeValue; </script> </body> </html>
