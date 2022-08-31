@@ -928,5 +928,28 @@ HTML DOM определяет стандартный способ доступа
 <html>
 <body>
 	<h1>Заметка</h1>
-		<div>
-			<b>Кому:</b> <span id="to"></span><br /> <b>От:</b> <span id="from"></span><br /> <b>Сообщение:</b> <span id="message"></span> </div> <script> if (window.XMLHttpRequest) { // для IE7+, Firefox, Chrome, Opera, Safari xmlhttp = new XMLHttpRequest(); } else { // для IE6, IE5 xmlhttp = new ActiveXObject("Microsoft.XMLHTTP"); } xmlhttp.open("GET","note.xml",false); xmlhttp.send(); xmlDoc = xmlhttp.responseXML; document.getElementById("to").innerHTML = xmlDoc.getElementsByTagName("to")[0].childNodes[0].nodeValue; document.getElementById("from").innerHTML = xmlDoc.getElementsByTagName("from")[0].childNodes[0].nodeValue; document.getElementById("message").innerHTML = xmlDoc.getElementsByTagName("body")[0].childNodes[0].nodeValue; </script> </body> </html>
+	<div>
+		<b>Кому:</b> <span id="to"></span><br />
+		<b>От:</b> <span id="from"></span><br />
+		<b>Сообщение:</b> <span id="message"></span>
+	</div>
+	<script>
+		if (window.XMLHttpRequest)
+		{ // для IE7+, Firefox, Chrome, Opera, Safari
+			xmlhttp = new XMLHttpRequest();
+		}
+		else
+		{ // для IE6, IE5
+			xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+		}
+		
+		xmlhttp.open("GET","note.xml",false);
+		xmlhttp.send();
+		xmlDoc = xmlhttp.responseXML;
+		
+		document.getElementById("to").innerHTML = xmlDoc.getElementsByTagName("to")[0].childNodes[0].nodeValue;
+		document.getElementById("from").innerHTML = xmlDoc.getElementsByTagName("from")[0].childNodes[0].nodeValue;
+		document.getElementById("message").innerHTML = xmlDoc.getElementsByTagName("body")[0].childNodes[0].nodeValue;
+	</script>
+</body>
+</html>
