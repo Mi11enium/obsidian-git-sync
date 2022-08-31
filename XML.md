@@ -863,3 +863,42 @@ xhttp.send();
 Эта текстовая строка может использоваться для изменения кода веб-страницы. Строка **document.getElementById("demo").innerHTML = xhttp.responseText;**.
 ***
 ### Парсинг XML документа
+Следующий фрагмент кода парсит XML документ в объект XML DOM:
+~~~javascript
+if (window.XMLHttpRequest)
+{
+	// для IE7+, Firefox, Chrome, Opera, Safari
+	xmlhttp = new XMLHttpRequest();
+}
+else
+{
+	// для IE6, IE5
+	xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+}
+
+xmlhttp.open("GET","books.xml",false);
+xmlhttp.send();
+xmlDoc = xmlhttp.responseXML;
+~~~
+***
+### Парсинг XML строки
+Следующий фрагмент кода парсит XML строку в объект XML DOM:
+~~~javascript
+txt = "<bookstore><book>";
+txt = txt + "<title>Everyday Italian</title>";
+txt = txt + "<author>Giada De Laurentiis</author>";
+txt = txt + "<year>2005</year>";
+txt = txt + "</book></bookstore>";
+
+if (window.DOMParser)
+{
+	parser = new DOMParser();
+	xmlDoc = parser.parseFromString(txt,"text/xml");
+}
+else // Internet Explorer
+{
+	xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
+	xmlDoc.async = false;
+	xmlDoc.loadXML(txt);
+}
+~~~
