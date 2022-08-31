@@ -976,4 +976,81 @@ getElementsByTagName("to")[0].childNodes[0].nodeValue
 	
 	<script>
 		txt = "<note>";
-		txt = txt + "<to>Tove</to>"; txt = txt + "<from>Jani</from>"; txt = txt + "<heading>Напоминание</heading>"; txt = txt + "<body>Не забудь обо мне в эти выходные!</body>"; txt = txt + "</note>"; if (window.DOMParser) { parser = new DOMParser(); xmlDoc = parser.parseFromString(txt,"text/xml"); } else // Internet Explorer { xmlDoc = new ActiveXObject("Microsoft.XMLDOM"); xmlDoc.async = false; xmlDoc.loadXML(txt); } document.getElementById("to").innerHTML = xmlDoc.getElementsByTagName("to")[0].childNodes[0].nodeValue; document.getElementById("from").innerHTML = xmlDoc.getElementsByTagName("from")[0].childNodes[0].nodeValue; document.getElementById("message").innerHTML = xmlDoc.getElementsByTagName("body")[0].childNodes[0].nodeValue; </script> </body> </html>
+		txt = txt + "<to>Tove</to>";
+		txt = txt + "<from>Jani</from>";
+		txt = txt + "<heading>Напоминание</heading>";
+		txt = txt + "<body>Не забудь обо мне в эти выходные!</body>";
+		txt = txt + "</note>";
+		
+		if (window.DOMParser)
+		{
+			parser = new DOMParser();
+			xmlDoc = parser.parseFromString(txt,"text/xml");
+		}
+		else // Internet Explorer
+		{
+			xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
+			xmlDoc.async = false;
+			xmlDoc.loadXML(txt);
+		}
+		
+		document.getElementById("to").innerHTML = xmlDoc.getElementsByTagName("to")[0].childNodes[0].nodeValue;
+		document.getElementById("from").innerHTML = xmlDoc.getElementsByTagName("from")[0].childNodes[0].nodeValue;
+		document.getElementById("message").innerHTML = xmlDoc.getElementsByTagName("body")[0].childNodes[0].nodeValue;
+	</script>
+</body>
+</html>
+~~~
+***
+### Пример XML в HTML
+В следующем примере мы открываем XML файл и затем в цикле обходим каждый элемент CD и отображаем значения элементов ARTIST и TITLE в таблице HTML:
+~~~html
+<html>
+<body>
+	<script>
+		if (window.XMLHttpRequest)
+		{ // для IE7+, Firefox, Chrome, Opera, Safari
+			xmlhttp = new XMLHttpRequest();
+		}
+		else
+		{ // для IE6, IE5
+			xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+		}
+		
+		xmlhttp.open("GET","cd_catalog.xml",false);
+		xmlhttp.send();
+		xmlDoc = xmlhttp.responseXML;
+		
+		document.write("<table border='1'>");
+		var x = xmlDoc.getElementsByTagName("CD");
+		for (i = 0; i < x.length; i++)
+		{
+			document.write("<tr><td>");
+			document.write(x[i].getElementsByTagName("ARTIST")[0].childNodes[0].nodeValue);
+			document.write("</td><td>"); document.write(x[i].getElementsByTagName("TITLE")[0].childNodes[0].nodeValue);
+			document.write("</td></tr>");
+		}
+		document.write("</table>");
+	</script>
+</body>
+</html>
+~~~
+***
+# XML и XPath
+> [!summary] Xpath
+> **XPath** – это язык для поиска информации внутри XML документа.
+***
+### Что такое XPath?
+-   **XPath** - специальный язык для определения частей XML документа
+-   **XPath** использует маршрутные выражения для навигации по XML документам
+-   **XPath** содержит библиотеку стандартных функций
+-   **XPath** — главный элемент в XSLT
+-   **XPath** также используется в XQuery, XPointer и XLink
+***
+### Маршрутные выражения XPath
+**XPath** использует маршрутные выражения для выбора узлов или узловых наборов в XML документе. Эти маршрутные выражения похожи на те выражения, которые можно увидеть при работе с традиционными файловыми системами.
+
+В настоящее время выражения XPath можно использовать в JavaScript, Java, XML схемах, PHP, Python, C и C++, а также во множестве других языках программирования.
+***
+### XPath используется в XSLT
+**XPath** является главным составляющим элементом стандарта XSLT. Без знания XPath невозможно создавать документы XSLT.
