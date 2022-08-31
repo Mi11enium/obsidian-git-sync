@@ -1054,3 +1054,44 @@ getElementsByTagName("to")[0].childNodes[0].nodeValue
 ***
 ### XPath используется в XSLT
 **XPath** является главным составляющим элементом стандарта XSLT. Без знания XPath невозможно создавать документы XSLT.
+***
+### Пример XPath
+Для демонстрации XPath будем использовать следующий XML документ:
+~~~xml
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+	<book category="COOKING">
+		<title lang="en">Everyday Italian</title>
+		<author>Giada De Laurentiis</author>
+		<year>2005</year>
+		<price>30.00</price>
+	</book>
+	<book category="CHILDREN">
+		<title lang="en">Harry Potter</title>
+		<author>J K. Rowling</author>
+		<year>2005</year>
+		<price>29.99</price>
+	</book>
+	<book category="WEB">
+		<title lang="en">XQuery Kick Start</title>
+		<author>James McGovern</author>
+		<author>Per Bothner</author>
+		<author>Kurt Cagle</author>
+		<author>James Linn</author>
+		<author>Vaidyanathan Nagarajan</author>
+		<year>2003</year>
+		<price>49.99</price>
+	</book>
+	<book category="WEB">
+		<title lang="en">Learning XML</title>
+		<author>Erik T. Ray</author>
+		<year>2003</year>
+		<price>39.95</price>
+	</book>
+</bookstore>
+~~~
+
+В приведенной ниже таблице представлены некоторые выражения XPath и результат их работы:
+| Выражение XPath | Результат |
+| --------------- | --------- |
+|                 |           |
