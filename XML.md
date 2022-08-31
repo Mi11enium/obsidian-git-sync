@@ -964,3 +964,16 @@ getElementsByTagName("to")[0].childNodes[0].nodeValue
 ***
 ### Загрузка XML строки
 В следующем примере парсится XML строка в объект XML DOM, из которого затем при помощи Javascript извлекается некоторая информация:
+~~~html
+<html>
+<body>
+	<h1>Заметка</h1>
+	<div>
+		<b>Кому:</b> <span id="to"></span><br />
+		<b>От:</b> <span id="from"></span><br />
+		<b>Сообщение:</b> <span id="message"></span>
+	</div>
+	
+	<script>
+		txt = "<note>";
+		txt = txt + "<to>Tove</to>"; txt = txt + "<from>Jani</from>"; txt = txt + "<heading>Напоминание</heading>"; txt = txt + "<body>Не забудь обо мне в эти выходные!</body>"; txt = txt + "</note>"; if (window.DOMParser) { parser = new DOMParser(); xmlDoc = parser.parseFromString(txt,"text/xml"); } else // Internet Explorer { xmlDoc = new ActiveXObject("Microsoft.XMLDOM"); xmlDoc.async = false; xmlDoc.loadXML(txt); } document.getElementById("to").innerHTML = xmlDoc.getElementsByTagName("to")[0].childNodes[0].nodeValue; document.getElementById("from").innerHTML = xmlDoc.getElementsByTagName("from")[0].childNodes[0].nodeValue; document.getElementById("message").innerHTML = xmlDoc.getElementsByTagName("body")[0].childNodes[0].nodeValue; </script> </body> </html>
