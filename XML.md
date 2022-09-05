@@ -1201,3 +1201,51 @@ XLink определяет **методы создания ссылок внут
 Атрибут _**xlink:type="simple"**_ создает простую "HTML-подобную" ссылку (означает "нажмите сюда, чтобы перейти туда").
 
 Атрибут _**xlink:href**_ определяет URL ссылки.
+***
+### Поддержка XLink браузерами
+
+Браузеры не имеют поддержки XLink в XML документах. Тем не менее, все основные браузеры поддерживают простые XLink в SVG.
+***
+### Пример XLink
+Следующий XML документ содержит функционал XLink:
+~~~xml
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore xmlns:xlink="http://www.w3.org/1999/xlink">
+	<book title="Harry Potter">
+		<description xlink:type="simple" xlink:href="/images/HPotter.gif" xlink:show="new">
+			As his fifth year at Hogwarts School of Witchcraft and Wizardry approaches, 15-year-old Harry Potter is...
+		</description>
+	</book>
+	<book title="XQuery Kick Start">
+		<description xlink:type="simple" xlink:href="/images/XQuery.gif" xlink:show="new">
+			XQuery Kick Start delivers a concise introduction to the XQuery standard... </description>
+	</book>
+</bookstore>
+~~~
+Написано же здесь следующее:
+
+-   В начале документа декларируется пространство имен XLink (_**xmlns:xlink="http://www.w3.org/1999/xlink"**_)
+-   Атрибут _**xlink:type="simple"**_ создает простую "HTML-подобную" ссылку
+-   Атрибут _**xlink:href**_ определяет URL ссылки (в данном случае - изображение)
+-   Атрибут _**xlink:show="new"**_ определяет, что ссылка должна открываться в новом окне
+***
+### XLink – Идем дальше
+
+В примере выше были продемонстрированы простые ссылки XLink. Однако XLink становится интереснее, когда необходимо создать доступ к удаленный ресурсам, а не к отдельным страницам.
+
+Если установить атрибуту _**xlink:show**_ значение _**"embed"**_, то ресурс, на который создается ссылка, будет встроен в код страницы. Если создается такая ссылка на другой XML документ, то появляется возможность создавать иерархию XML документов.
+
+Также, вы можете определять то, когда ресурс должен отображаться. За это отвечает атрибут _**xlink:actuate**_.
+***
+### Атрибуты XLink
+
+| Атрибут       | Значение | Описание |
+| ------------- | -------- | -------- |
+| xlink:actuate | onLoad, onRequest, other, none  |Определяет, когда подключенный ресурс должен быть прочитан и показан: -   onLoad – ресурс должен быть загружен и показан сразу после загрузки документа          |
+|               |          |          |
+|               |          |          |
+|               |          |          |
+|               |          |          |
+onRequest  
+other  
+none          |          |
