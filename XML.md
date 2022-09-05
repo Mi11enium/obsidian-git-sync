@@ -1294,4 +1294,20 @@ XPointer также предоставляет удобный метод соз�
 		<description>
 			Anton is my favorite dog. He has won a lot of....
 		</description>
-		<fact xlink:type="simple" xlink:href="http://dog.com/dogbreeds.xml#Rottweiler">Fact about Rottweiler</fact> </mydog> <mydog> <description>Pluto is the sweetest dog on earth......</description> <fact xlink:type="simple" xlink:href="http://dog.com/dogbreeds.xml#FCRetriever">Fact about flat-coated Retriever</fact> </mydog> </mydogs>
+		<fact xlink:type="simple" xlink:href="http://dog.com/dogbreeds.xml#Rottweiler">Fact about Rottweiler
+		</fact>
+	</mydog>
+	<mydog>
+		<description>
+			Pluto is the sweetest dog on earth......
+		</description>
+		<fact xlink:type="simple" xlink:href="http://dog.com/dogbreeds.xml#FCRetriever">Fact about flat-coated Retriever</fact>
+	</mydog>
+</mydogs>
+~~~
+***
+# XML и XQuery
+
+Для **XML язык XQuery тоже самое, что SQL для баз данных**.
+
+XQuery разработан для того, чтобы делать выборки из данных в формате XML.
