@@ -1159,4 +1159,37 @@ XSLT использует XPath для поиска информации в XML 
 	<xsl:for-each select="breakfast_menu/food">
 		<div style="background-color: teal; color: white; padding: 4px">
 			<span style="font-weight: bold"><xsl:value-of select="name"/> - </span>
-			<xsl:value-of select="price"/> </div> <div style="margin-left: 20px; margin-bottom: 1em; font-size: 10pt"> <p> <xsl:value-of select="description"/> <span style="font-style: italic"> (<xsl:value-of select="calories"/> calories per serving)</span> </p> </div> </xsl:for-each> </body> </html>
+			<xsl:value-of select="price"/>
+		</div>
+		<div style="margin-left: 20px; margin-bottom: 1em; font-size: 10pt">
+			<p>
+				<xsl:value-of select="description"/>
+				<span style="font-style: italic"> (<xsl:value-of select="calories"/> calories per serving)</span>
+			</p>
+		</div>
+	</xsl:for-each>
+</body>
+</html>
+~~~
+***
+# XLink - ссылки в XML
+XLink определяет **методы создания ссылок внутри XML** документов.
+***
+### Как используется XLink
+-   XLink используется для создания гиперссылок внутри XML документов
+-   Любой элемент XML документа может вести себя как ссылка
+-   XLink поддерживает простые ссылки (как HTML) и расширенные ссылки (для связывания нескольких ресурсов)
+-   При помощи XLink ссылки могут определяться за пределами связанных файлов
+-   XLink является стандартом W3C
+***
+### Синтаксис XLink
+В HTML [гиперссылки определяются](https://msiter.ru/tutorials/html-nachalnogo-urovnya/ssylki) при помощи элемента &lt;a&gt;. В XML же это работать не будет. В XML документах разрешено использовать элементы с любыми именами, таким образом браузеры не могут знать заранее, какие элементы в XML документах используются в качестве ссылок.
+
+Ниже приводится простой пример использования XLink для создания ссылок в XML документе:
+~~~xml
+<?xml version="1.0" encoding="UTF-8"?>
+<homepages xmlns:xlink="http://www.w3.org/1999/xlink">
+	<homepage xlink:type="simple" xlink:href="http://msiter.ru">Наш учебный сайт</homepage>
+	<homepage xlink:type="simple" xlink:href="http://www.w3.org">Консорциум W3C</homepage>
+</homepages>
+~~~
