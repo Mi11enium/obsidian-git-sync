@@ -1238,14 +1238,60 @@ XLink определяет **методы создания ссылок внут
 Также, вы можете определять то, когда ресурс должен отображаться. За это отвечает атрибут _**xlink:actuate**_.
 ***
 ### Атрибуты XLink
+https://msiter.ru/tutorials/uchebnik-xml-dlya-nachinayushchih/xlink-ssylki-v-xml
+***
+# XPointer - ссылки на фрагменты XML
+XPointer позволяет **определять гиперссылки на различные части** (фрагменты) XML документа.
+***
+### Что такое XPointer?
+-   XPointer позволяет создавать ссылки на различные части XML документа
+-   XPointer использует выражения XPath для навигации по XML документу
+-   XPointer является стандартом W3C
+***
+### Поддержка браузерами XPointer
+Браузеры не поддерживают XPointer, однако XPointer используется в других XML языках программирования.
+***
+### Пример XPointer
 
-| Атрибут       | Значение | Описание |
-| ------------- | -------- | -------- |
-| xlink:actuate | onLoad, onRequest, other, none  |Определяет, когда подключенный ресурс должен быть прочитан и показан: -   onLoad – ресурс должен быть загружен и показан сразу после загрузки документа          |
-|               |          |          |
-|               |          |          |
-|               |          |          |
-|               |          |          |
-onRequest  
-other  
-none          |          |
+В следующем примере мы используем XPointer совместно с [XLink](https://msiter.ru/tutorials/uchebnik-xml-dlya-nachinayushchih/xlink-ssylki-v-xml "XLink") для ссылок на определенные части другого документа.
+
+Начнем с целевого XML документа (документа, на который создаются ссылки):
+~~~xml
+  
+<?xml version="1.0" encoding="UTF-8"?>
+<dogbreeds>
+	<dog breed="Rottweiler" id="Rottweiler">
+		<picture url="http://dog.com/rottweiler.gif" />
+		<history>
+			The Rottweiler's ancestors were probably Roman drover dogs.....
+		</history>
+		<temperament>
+			Confident, bold, alert and imposing, the Rottweiler is a popular choice for its ability to protect....
+		</temperament>
+	</dog>
+	<dog breed="FCRetriever" id="FCRetriever">
+		<picture url="http://dog.com/fcretriever.gif" />
+		<history>
+			One of the earliest uses of retrieving dogs was to help fishermen retrieve fish from the water....
+		</history>
+		<temperament>
+			The flat-coated retriever is a sweet, exuberant, lively dog that loves to play and retrieve....
+		</temperament>
+	</dog>
+</dogbreeds>
+~~~
+Обратите внимание, что приведенный выше XML документ в каждом элементе использует атрибуты идентификации id!
+
+Итак, вместо того, чтобы ссылаться на весь документ целиком (как в случае с XLink), XPointer позволяет создавать ссылки на конкретные фрагменты XML документа. Чтобы создать ссылку на определенную часть страницы, нужно добавить символ "хэша" (#) и выражение XPointer после URL в атрибуте _**xlink:href**_ следующим образом: _**xlink:href="http://dog.com/dogbreeds.xml#xpointer(id('Rottweiler'))"**_. Это выражение ссылается на определенный элемент заданного документа с id со значением "Rottweiler".
+
+XPointer также предоставляет удобный метод создания ссылок на элементы с атрибутом id. Вы можете использовать значение атрибута id напрямую: _xlink:href="http://dog.com/dogbreeds.xml#Rottweiler"_.
+
+Следующий XML документ содержит ссылки на более подробную информацию:
+~~~xml
+<?xml version="1.0" encoding="UTF-8"?>
+<mydogs xmlns:xlink="http://www.w3.org/1999/xlink">
+	<mydog>
+		<description>
+			Anton is my favorite dog. He has won a lot of....
+		</description>
+		<fact xlink:type="simple" xlink:href="http://dog.com/dogbreeds.xml#Rottweiler">Fact about Rottweiler</fact> </mydog> <mydog> <description>Pluto is the sweetest dog on earth......</description> <fact xlink:type="simple" xlink:href="http://dog.com/dogbreeds.xml#FCRetriever">Fact about flat-coated Retriever</fact> </mydog> </mydogs>
