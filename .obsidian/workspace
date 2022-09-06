@@ -7,9 +7,11 @@
         "id": "fde36bd36eb687a2",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Picture/Job.png"
+            "file": "Программирование/HTML/Vectree/Веб-разработка/Основы.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Picture/Job.png",
+                "file": "Программирование/HTML/Vectree/Веб-разработка/Основы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Picture/Job.png"
+                "file": "Программирование/HTML/Vectree/Веб-разработка/Основы.md"
               }
             }
           },
@@ -124,9 +126,9 @@
   },
   "active": "fde36bd36eb687a2",
   "lastOpenFiles": [
+    "Picture/Job.png",
     "Untitled.md",
     "job.png",
-    "Picture/Job.png",
     "Программирование/HTML/Vectree/Веб-разработка/Основы.md",
     "XML.md",
     "Тестирование программного обеспечения/Глоссарий.md",
