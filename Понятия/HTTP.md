@@ -1,3 +1,3 @@
 # HTTP
 > [!summary] HTTP
-> Hyper Text Transfer Protocol - протокол передачи гипертекстовой разметки
+> Hyper Text Transfer Protocol - клиент- серверный протокол передачи гипертекстовой разметки
