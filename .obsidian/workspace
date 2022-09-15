@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Понятия/HTTP.md",
+            "file": "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/Введение/2. Необходимое ПО.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Понятия/HTTP.md",
+                "file": "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/Введение/2. Необходимое ПО.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Понятия/HTTP.md"
+                "file": "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/Введение/2. Необходимое ПО.md"
               }
             }
           },
@@ -126,15 +126,15 @@
   },
   "active": "fde36bd36eb687a2",
   "lastOpenFiles": [
-    "Понятия/HTML.md",
+    "Роботы-пауки.md",
     "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/Введение/1. Общие понятия.md",
-    "Понятия/URL.md",
-    "Понятия/URI.md",
-    "Picture/URLURI.png",
-    "Picture/web.png",
-    "CGI.md",
+    "XML.md",
+    "Понятия/Браузер.md",
+    "Понятия/CGI.md",
     "Понятия/HTTP.md",
-    "Picture/www_arch.png",
-    "Picture/Job.png"
+    "Pasted image 20220915223202.png",
+    "Picture/HTTPR.png",
+    "Picture/URLURI.png",
+    "Pasted image 20220915221417.png"
   ]
 }
