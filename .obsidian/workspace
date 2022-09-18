@@ -7,11 +7,9 @@
         "id": "fde36bd36eb687a2",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/Верстка/2. Элементы HTML.md",
-            "mode": "source",
-            "source": false
+            "file": "Picture/snip.png"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/Верстка/2. Элементы HTML.md",
+                "file": "Picture/snip.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/Верстка/2. Элементы HTML.md"
+                "file": "Picture/snip.png"
               }
             }
           },
@@ -124,8 +122,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "fde36bd36eb687a2",
+  "active": "a5005e377ebd9acc",
   "lastOpenFiles": [
+    "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/Верстка/2. Элементы HTML.md",
     "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/Верстка/1. HTML верстка.md",
     "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/Введение/1. Общие понятия.md",
     "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/Введение/4. Emmet.md",
@@ -134,7 +133,6 @@
     "Picture/numb.png",
     "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/Введение/2. Необходимое ПО.md",
     "Понятия/Роботы-пауки.md",
-    "XML.md",
-    "Понятия/Браузер.md"
+    "XML.md"
   ]
 }
