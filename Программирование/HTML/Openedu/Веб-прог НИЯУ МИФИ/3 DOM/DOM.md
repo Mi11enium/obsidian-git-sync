@@ -36,4 +36,23 @@
 
 ***
 ## Получение элемента по ID
-getElementById('');
+document.**getElementById**('idName');
+
+После присваиваем в переменную
+исключения при поиске - вместо class нужно писать **className**
+исключения при поиске - вместо for нужно писать **htmlFor**
+
+
+Присваевание переменной "hey" элемента по id и вызов класса:
+var elem = document.getElementById('idName');
+alert(elem.className);
+***
+## This
+Ничего не понял
+***
+## CSS
+![[csss.png]]
+***
+## innerHTML
+Для считывания и записи значения атрибутов используется свойство **innerHTML**
+![[Pasted image 20221002001636.png]]
