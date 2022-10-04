@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/2. ПР DOM.md",
+            "file": "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/1. DOM.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/2. ПР DOM.md",
+                "file": "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/1. DOM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/2. ПР DOM.md"
+                "file": "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/1. DOM.md"
               }
             }
           },
@@ -126,15 +126,15 @@
   },
   "active": "fde36bd36eb687a2",
   "lastOpenFiles": [
+    "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/2. ПР DOM.md",
+    "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/1. DOM.md",
+    "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/2 Верстка/2. Элементы HTML.md",
+    "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/2 Верстка/1. HTML верстка.md",
+    "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/2 Верстка/3. Таблицы стилей.md",
+    "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/2 Верстка/4. Верстка приложения.md",
     "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/1 Введение/4. Emmet.md",
     "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/1 Введение/3. Visual Studio Code.md",
     "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/1 Введение/2. Необходимое ПО.md",
-    "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/1 Введение/1. Общие понятия.md",
-    "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/2. ПР DOM.md",
-    "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/1. DOM.md",
-    "Picture/innerHTML.png",
-    "XML.md",
-    "Программирование/Тестирование/itempuniversity.com/1 Урок.md",
-    "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md"
+    "Программирование/HTML/Openedu/Веб-прог НИЯУ МИФИ/1 Введение/1. Общие понятия.md"
   ]
 }
