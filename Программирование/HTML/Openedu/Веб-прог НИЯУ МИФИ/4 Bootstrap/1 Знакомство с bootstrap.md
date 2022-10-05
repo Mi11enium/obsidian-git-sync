@@ -26,7 +26,7 @@ https://getbootstrap.com/
 ~~~
 
 ## Система сеток
-![[web_s.png]]
+![[Picture/web_s.png]]
 
 ## Способы подключения
 01 - Extra small (xs)
@@ -35,3 +35,11 @@ https://getbootstrap.com/
 04 - Large (lg)
 05 - Extra large (xl)
 06 - Extra extra large (xxl)
+
+![[web_size.png]]
+
+## Компоненты bootstrap
+https://getbootstrap.com/docs/5.2/customize/components/
+Для размещения компонента достаточно вставить код компонента в необходимую область.
+### Аккордеон
+Аккордеон - это вертикальный сворачивающийся список.
