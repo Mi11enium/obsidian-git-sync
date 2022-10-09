@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Программирование/Linux/Подробная информация.md",
+            "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/5 REST API/1. Общие сведения.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Linux/Подробная информация.md",
+                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/5 REST API/1. Общие сведения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Linux/Подробная информация.md"
+                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/5 REST API/1. Общие сведения.md"
               }
             }
           },
@@ -126,9 +126,9 @@
   },
   "active": "fde36bd36eb687a2",
   "lastOpenFiles": [
+    "Программирование/Linux/Подробная информация.md",
     "Программирование/Linux/Команды.md",
     "Программирование/Linux/Краткая информация.md",
-    "Программирование/Linux/Подробная информация.md",
     "Программирование/Общие компетенции.md",
     "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/5 REST API/1. Общие сведения.md",
     "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/4 Bootstrap/4. Верстка с BT.md",
