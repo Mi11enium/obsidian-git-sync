@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/4 Bootstrap/4. Верстка с BT.md",
+            "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/5 REST API/5. Sequelize.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/4 Bootstrap/4. Верстка с BT.md",
+                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/5 REST API/5. Sequelize.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/4 Bootstrap/4. Верстка с BT.md"
+                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/5 REST API/5. Sequelize.md"
               }
             }
           },
@@ -127,6 +127,7 @@
   "active": "fde36bd36eb687a2",
   "lastOpenFiles": [
     "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/5 REST API/4. Маршрутизация.md",
+    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/4 Bootstrap/4. Верстка с BT.md",
     "Понятия/HTTP.md",
     "Понятия/JSON.md",
     "Понятия/REST.md",
@@ -134,7 +135,6 @@
     "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/5 REST API/3. Express framework.md",
     "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/5 REST API/2. Node js.md",
     "Понятия/NPM.md",
-    "Понятия/Node js.md",
-    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/5 REST API/1. Общие сведения.md"
+    "Понятия/Node js.md"
   ]
 }
