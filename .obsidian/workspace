@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/6 Тестирование API/1. Тестирование API.md",
+            "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/6 Тестирование API/2. ПР Тестирование API.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/6 Тестирование API/1. Тестирование API.md",
+                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/6 Тестирование API/2. ПР Тестирование API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/6 Тестирование API/1. Тестирование API.md"
+                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/6 Тестирование API/2. ПР Тестирование API.md"
               }
             }
           },
@@ -126,6 +126,7 @@
   },
   "active": "fde36bd36eb687a2",
   "lastOpenFiles": [
+    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/6 Тестирование API/1. Тестирование API.md",
     "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/5 REST API/6. ПР Создание Node.js REST API.md",
     "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/5 REST API/5. Sequelize.md",
     "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/5 REST API/4. Маршрутизация.md",
@@ -134,7 +135,6 @@
     "Понятия/JSON.md",
     "Понятия/REST.md",
     "Понятия/Express.md",
-    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/5 REST API/3. Express framework.md",
-    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/5 REST API/2. Node js.md"
+    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/5 REST API/3. Express framework.md"
   ]
 }
