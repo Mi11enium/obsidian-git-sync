@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "523c60728dc7d711",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9bdb24221764a63",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fde36bd36eb687a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/8 Vue/2. Разработка с Vue.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a29e10feffb467d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "525c217e6b43844a",
+    "type": "split",
+    "children": [
+      {
+        "id": "810c6cf4640718df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5005e377ebd9acc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "60114fbb2ba21cd8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76cb4184de3f14a9",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0607bf575578e997",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbfa1a28b3f6363d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3bbec154ae17640b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/8 Vue/2. Разработка с Vue.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "d2e88e1f9faab9e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "37ba09e9d7027d71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/8 Vue/2. Разработка с Vue.md"
+              }
+            }
+          },
+          {
+            "id": "f247509e1e47133c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "1a29e10feffb467d",
+  "lastOpenFiles": [
+    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/8 Vue/1. Vue.md",
+    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/7 Документирование API/2. MarkDown.md",
+    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/7 Документирование API/3. ПР Документирование API.md",
+    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/6 Тестирование API/1. Тестирование API.md",
+    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/6 Тестирование API/2. ПР Тестирование API.md",
+    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/7 Документирование API/1. Общие сведения.md",
+    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/2 Верстка/3. Таблицы стилей.md",
+    "Программирование/HTML, CSS, JS/Udemy/Создание веб-сайтов с нуля/2 Основы HTML и CSS/1. О чем этот блок.md",
+    "Программирование/HTML, CSS, JS/Udemy/Создание веб-сайтов с нуля/1 О чем курс/2. Подготовка.md",
+    "Программирование/HTML, CSS, JS/Udemy/Создание веб-сайтов с нуля/1 О чем курс/1. О чем курс.md"
+  ]
+}
