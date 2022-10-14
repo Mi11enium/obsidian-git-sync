@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/8 Vue/2. Разработка с Vue.md",
+                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/7 Документирование API/1. Общие сведения.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "1a29e10feffb467d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.0"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -44,17 +33,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5005e377ebd9acc",
+            "id": "a771e05bb667a728",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
+              "type": "starred",
+              "state": {}
             }
           },
           {
-            "id": "60114fbb2ba21cd8",
+            "id": "5c21d0061ec88133",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -69,14 +56,17 @@
             }
           },
           {
-            "id": "76cb4184de3f14a9",
+            "id": "20dd0f0e9e04fb29",
             "type": "leaf",
             "state": {
-              "type": "starred",
-              "state": {}
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -96,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/8 Vue/2. Разработка с Vue.md",
+                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/7 Документирование API/1. Общие сведения.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +98,15 @@
             }
           },
           {
-            "id": "d2e88e1f9faab9e9",
+            "id": "f247509e1e47133c",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "6628ecd366d44827",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -119,25 +117,17 @@
             }
           },
           {
-            "id": "37ba09e9d7027d71",
+            "id": "4e93bb0848afd105",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/8 Vue/2. Разработка с Vue.md"
+                "file": "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/7 Документирование API/1. Общие сведения.md"
               }
-            }
-          },
-          {
-            "id": "f247509e1e47133c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -146,17 +136,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1a29e10feffb467d",
+  "active": "fde36bd36eb687a2",
   "lastOpenFiles": [
+    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/2. ПР DOM.md",
+    "Тестирование программного обеспечения/Методологии разработки/Waterfall/Waterfall.md",
+    "Понятия/DOM.md",
+    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/1. DOM.md",
+    "Программирование/HTML, CSS, JS/Udemy/Создание веб-сайтов с нуля/2 Основы HTML и CSS/1. О чем этот блок.md",
+    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/8 Vue/2. Разработка с Vue.md",
     "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/8 Vue/1. Vue.md",
     "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/7 Документирование API/2. MarkDown.md",
     "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/7 Документирование API/3. ПР Документирование API.md",
-    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/6 Тестирование API/1. Тестирование API.md",
-    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/6 Тестирование API/2. ПР Тестирование API.md",
-    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/7 Документирование API/1. Общие сведения.md",
-    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/2 Верстка/3. Таблицы стилей.md",
-    "Программирование/HTML, CSS, JS/Udemy/Создание веб-сайтов с нуля/2 Основы HTML и CSS/1. О чем этот блок.md",
-    "Программирование/HTML, CSS, JS/Udemy/Создание веб-сайтов с нуля/1 О чем курс/2. Подготовка.md",
-    "Программирование/HTML, CSS, JS/Udemy/Создание веб-сайтов с нуля/1 О чем курс/1. О чем курс.md"
+    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/6 Тестирование API/1. Тестирование API.md"
   ]
 }
