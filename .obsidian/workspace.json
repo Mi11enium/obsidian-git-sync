@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "fbf938aa6ddb3fd8",
+        "id": "7fcb7c9f573c9b89",
         "type": "tabs",
         "children": [
           {
-            "id": "32b27783e6877ba1",
+            "id": "81ce9d4f1ec31054",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Git/YouTube.md",
+                "file": "Аналитика/YouTube/Практические формулы.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Git/YouTube.md",
+                "file": "Аналитика/YouTube/Практические формулы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Git/YouTube.md"
+                "file": "Аналитика/YouTube/Практические формулы.md"
               }
             }
           }
@@ -136,17 +136,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "32b27783e6877ba1",
+  "active": "81ce9d4f1ec31054",
   "lastOpenFiles": [
-    "Программирование/Общие компетенции.md",
+    "Программирование/Компьютерные сети/Уровни/1. Физический уровень.md",
+    "Аналитика/YouTube/Практические формулы.md",
     "Программирование/Git/YouTube.md",
+    "Программирование/Общие компетенции.md",
     "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/7 Документирование API/1. Общие сведения.md",
     "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/2. ПР DOM.md",
     "Тестирование программного обеспечения/Методологии разработки/Waterfall/Waterfall.md",
-    "Понятия/DOM.md",
+    "Программирование/Понятия/DOM.md",
     "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/1. DOM.md",
-    "Программирование/HTML, CSS, JS/Udemy/Создание веб-сайтов с нуля/2 Основы HTML и CSS/1. О чем этот блок.md",
-    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/8 Vue/2. Разработка с Vue.md",
-    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/8 Vue/1. Vue.md"
+    "Программирование/HTML, CSS, JS/Udemy/Создание веб-сайтов с нуля/2 Основы HTML и CSS/1. О чем этот блок.md"
   ]
 }
