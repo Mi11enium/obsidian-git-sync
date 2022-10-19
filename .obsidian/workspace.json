@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b0985a3ec5e8aa67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Python/Code basics/1..md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md",
+                "file": "Программирование/Python/Code basics/1..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md"
+                "file": "Программирование/Python/Code basics/1..md"
               }
             }
           }
@@ -149,8 +161,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1d58564c5bbc4c92",
+  "active": "b0985a3ec5e8aa67",
   "lastOpenFiles": [
+    "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md",
     "Аналитика/YouTube/Практические формулы.md",
     "Программирование/Компьютерные сети/Уровни/1. Физический уровень.md",
     "Программирование/Git/YouTube.md",
@@ -159,7 +172,6 @@
     "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/2. ПР DOM.md",
     "Тестирование программного обеспечения/Методологии разработки/Waterfall/Waterfall.md",
     "Программирование/Понятия/DOM.md",
-    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/1. DOM.md",
-    "Программирование/HTML, CSS, JS/Udemy/Создание веб-сайтов с нуля/2 Основы HTML и CSS/1. О чем этот блок.md"
+    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/1. DOM.md"
   ]
 }
