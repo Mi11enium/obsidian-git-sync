@@ -73,14 +73,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Python/Code basics/4..md",
+                "file": "Программирование/Python/Code basics/4. Testing of answer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "770a4cfff48d285e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Python/Code basics/5. Syntax error.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "480ab72e8d14f6a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Python/Code basics/6. Arithmetic operations.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "841c412740de6d51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Python/Code basics/7. Operators.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -147,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Code basics/4..md",
+                "file": "Программирование/Python/Code basics/7. Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Code basics/4..md"
+                "file": "Программирование/Python/Code basics/7. Operators.md"
               }
             }
           }
@@ -197,17 +233,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "200a0de675d7bb16",
+  "active": "841c412740de6d51",
   "lastOpenFiles": [
-    "Программирование/Python/Code basics/3. Statements.md",
-    "Программирование/Python/Code basics/2. One line comment.md",
+    "Программирование/Python/Code basics/6. Arithmetic operations.md",
     "Программирование/Python/Code basics/1. print().md",
+    "Программирование/Python/Code basics/2. One line comment.md",
+    "Программирование/Python/Code basics/3. Statements.md",
+    "Программирование/Python/Code basics/4. Testing of answer.md",
+    "Программирование/Python/Code basics/5. Syntax error.md",
     "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md",
     "Аналитика/YouTube/Практические формулы.md",
     "Программирование/Компьютерные сети/Уровни/1. Физический уровень.md",
-    "Программирование/Git/YouTube.md",
-    "Программирование/Общие компетенции.md",
-    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/7 Документирование API/1. Общие сведения.md",
-    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/2. ПР DOM.md"
+    "Программирование/Git/YouTube.md"
   ]
 }
