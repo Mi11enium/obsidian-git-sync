@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1d58564c5bbc4c92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Аналитика/YouTube/Практические формулы.md",
+                "file": "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Аналитика/YouTube/Практические формулы.md"
+                "file": "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md"
               }
             }
           }
@@ -136,10 +149,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "81ce9d4f1ec31054",
+  "active": "1d58564c5bbc4c92",
   "lastOpenFiles": [
-    "Программирование/Компьютерные сети/Уровни/1. Физический уровень.md",
     "Аналитика/YouTube/Практические формулы.md",
+    "Программирование/Компьютерные сети/Уровни/1. Физический уровень.md",
     "Программирование/Git/YouTube.md",
     "Программирование/Общие компетенции.md",
     "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/7 Документирование API/1. Общие сведения.md",
