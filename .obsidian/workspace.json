@@ -37,14 +37,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Python/Code basics/1..md",
+                "file": "Программирование/Python/Code basics/1. print().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9fe0c3396019480e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Python/Code basics/2. One line comment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9bebad032795efff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Python/Code basics/3. Statements.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "200a0de675d7bb16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Python/Code basics/4..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -111,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Code basics/1..md",
+                "file": "Программирование/Python/Code basics/4..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Code basics/1..md"
+                "file": "Программирование/Python/Code basics/4..md"
               }
             }
           }
@@ -161,17 +197,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "b0985a3ec5e8aa67",
+  "active": "200a0de675d7bb16",
   "lastOpenFiles": [
+    "Программирование/Python/Code basics/3. Statements.md",
+    "Программирование/Python/Code basics/2. One line comment.md",
+    "Программирование/Python/Code basics/1. print().md",
     "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md",
     "Аналитика/YouTube/Практические формулы.md",
     "Программирование/Компьютерные сети/Уровни/1. Физический уровень.md",
     "Программирование/Git/YouTube.md",
     "Программирование/Общие компетенции.md",
     "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/7 Документирование API/1. Общие сведения.md",
-    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/2. ПР DOM.md",
-    "Тестирование программного обеспечения/Методологии разработки/Waterfall/Waterfall.md",
-    "Программирование/Понятия/DOM.md",
-    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/1. DOM.md"
+    "Программирование/HTML, CSS, JS/Openedu/Веб-прог НИЯУ МИФИ/3 DOM/2. ПР DOM.md"
   ]
 }
