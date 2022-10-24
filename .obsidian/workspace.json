@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Python/Code basics/20. Errors of variables.md",
+                "file": "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Code basics/20. Errors of variables.md",
+                "file": "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Code basics/20. Errors of variables.md"
+                "file": "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md"
               }
             }
           }
@@ -187,6 +187,7 @@
   },
   "active": "9de8ac04dc80ad28",
   "lastOpenFiles": [
+    "Программирование/Python/Code basics/20. Errors of variables.md",
     "Программирование/Python/Code basics/19. Variables names.md",
     "Программирование/Python/Code basics/18. Change Variables.md",
     "Программирование/Python/Code basics/14. Escaped Sequences.md",
@@ -195,7 +196,6 @@
     "Программирование/Python/Code basics/15. Concatenation.md",
     "Программирование/Python/Code basics/13. Quotes.md",
     "Программирование/Python/Code basics/12. Linter.md",
-    "Программирование/Python/Code basics/11. Float numbers.md",
-    "Программирование/Python/Code basics/10. Priority.md"
+    "Программирование/Python/Code basics/11. Float numbers.md"
   ]
 }
