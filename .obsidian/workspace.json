@@ -8,67 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e82010c4bd405dd1",
+            "id": "3675203df2bba5f8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Python/Code basics/9. Composition of operations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58b7a0b96830269d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Code basics/10. Priority.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79cddd890c933135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Code basics/11. Float numbers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1d7d6fe102fb8bda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Code basics/12. Linter.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "970ddcd0a3e3b6a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Code basics/13. Quotes.md",
+                "file": "Программирование/Python/Code basics/16. Encoding.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Code basics/13. Quotes.md",
+                "file": "Программирование/Python/Code basics/16. Encoding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Code basics/13. Quotes.md"
+                "file": "Программирование/Python/Code basics/16. Encoding.md"
               }
             }
           }
@@ -185,17 +136,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "970ddcd0a3e3b6a1",
+  "active": "3675203df2bba5f8",
   "lastOpenFiles": [
+    "Программирование/Python/Code basics/15. Concatenation.md",
+    "Программирование/Python/Code basics/14. Escaped Sequences.md",
+    "Программирование/Python/Code basics/13. Quotes.md",
     "Программирование/Python/Code basics/12. Linter.md",
     "Программирование/Python/Code basics/11. Float numbers.md",
     "Программирование/Python/Code basics/10. Priority.md",
     "Программирование/Python/Code basics/9. Composition of operations.md",
     "Аналитика/YouTube/Практические формулы.md",
     "Программирование/Python/Code basics/8. Commutative operation.md",
-    "Программирование/Python/Code basics/7. Operators.md",
-    "Программирование/Python/Code basics/6. Arithmetic operations.md",
-    "Программирование/Python/Code basics/1. print().md",
-    "Программирование/Python/Code basics/2. One line comment.md"
+    "Программирование/Python/Code basics/7. Operators.md"
   ]
 }
