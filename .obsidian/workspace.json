@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1854c75721333395",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,10 +144,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "e1fffe243eba481e",
+  "active": "1854c75721333395",
   "lastOpenFiles": [
     "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md",
     "Программирование/Python/Code basics/20. Errors of variables.md",
