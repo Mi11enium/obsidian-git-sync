@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8f101352e6faadb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Words/Actually.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,8 +146,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5bbdeddf277b6504",
+  "active": "8f101352e6faadb2",
   "lastOpenFiles": [
+    "Мнемотехника/Память/Память.md",
+    "English/Words/Actually.md",
     "Программирование/Понятия/XML.md",
     "Программирование/Понятия/Express.md",
     "Программирование/Понятия/DOM.md",
@@ -142,8 +157,6 @@
     "Менеджмент/Управление проектами/1. Что такое проект.md",
     "Программирование/Python/Python тьютор/Задачи.md",
     "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md",
-    "Программирование/Python/Code basics/20. Errors of variables.md",
-    "Программирование/Python/Code basics/19. Variables names.md",
-    "Программирование/Python/Code basics/18. Change Variables.md"
+    "Программирование/Python/Code basics/20. Errors of variables.md"
   ]
 }
