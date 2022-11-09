@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1b49e74bbc96e1de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Words/rapid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Words/efficient.md",
+                "file": "English/Words/rapid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Words/efficient.md"
+                "file": "English/Words/rapid.md"
               }
             }
           }
@@ -170,8 +182,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "6e11696e471dec77",
+  "active": "1b49e74bbc96e1de",
   "lastOpenFiles": [
+    "English/Words/efficient.md",
+    "English/Words/rapid.md",
     "English/Words/actually.md",
     "Мнемотехника/Курс/1 Урок. Введение.md",
     "Мнемотехника/Память/Память.md",
@@ -179,8 +193,6 @@
     "Программирование/Понятия/Express.md",
     "Программирование/Понятия/DOM.md",
     "Менеджмент/Управление проектами/2. Что такое артефакт проекта.md",
-    "Менеджмент/Управление проектами/1. Что такое проект.md",
-    "Программирование/Python/Python тьютор/Задачи.md",
-    "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md"
+    "Менеджмент/Управление проектами/1. Что такое проект.md"
   ]
 }
