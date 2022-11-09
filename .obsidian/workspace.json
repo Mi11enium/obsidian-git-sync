@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Менеджмент/Управление проектами/2. Что такое артефакт проекта.md",
+                "file": "Программирование/Понятия/XML.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Менеджмент/Управление проектами/2. Что такое артефакт проекта.md",
+                "file": "Программирование/Понятия/XML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Менеджмент/Управление проектами/2. Что такое артефакт проекта.md"
+                "file": "Программирование/Понятия/XML.md"
               }
             }
           }
@@ -135,15 +135,15 @@
   },
   "active": "e1fffe243eba481e",
   "lastOpenFiles": [
+    "Программирование/Понятия/Express.md",
+    "Программирование/Понятия/DOM.md",
+    "Менеджмент/Управление проектами/2. Что такое артефакт проекта.md",
     "Менеджмент/Управление проектами/1. Что такое проект.md",
     "Программирование/Python/Python тьютор/Задачи.md",
     "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md",
     "Программирование/Python/Code basics/20. Errors of variables.md",
     "Программирование/Python/Code basics/19. Variables names.md",
     "Программирование/Python/Code basics/18. Change Variables.md",
-    "Программирование/Python/Code basics/14. Escaped Sequences.md",
-    "Программирование/Python/Code basics/17. Variables.md",
-    "Программирование/Python/Code basics/16. Encoding.md",
-    "Программирование/Python/Code basics/15. Concatenation.md"
+    "Программирование/Python/Code basics/14. Escaped Sequences.md"
   ]
 }
