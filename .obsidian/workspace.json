@@ -73,14 +73,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Words/suitable.md",
+                "file": "Мнемотехника/Курс/1 Урок. Введение.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b7df225860c4f346",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мнемотехника/Курс/2. Урок. Образ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -147,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Words/suitable.md",
+                "file": "Мнемотехника/Курс/2. Урок. Образ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Words/suitable.md"
+                "file": "Мнемотехника/Курс/2. Урок. Образ.md"
               }
             }
           }
@@ -194,13 +206,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "666507bbd9bc872f",
+  "active": "b7df225860c4f346",
   "lastOpenFiles": [
-    "English/Words/rapid.md",
+    "Мнемотехника/Курс/1 Урок. Введение.md",
     "English/Words/suitable.md",
+    "English/Words/rapid.md",
     "English/Words/actually.md",
     "English/Words/efficient.md",
-    "Мнемотехника/Курс/1 Урок. Введение.md",
     "Мнемотехника/Память/Память.md",
     "Программирование/Понятия/XML.md",
     "Программирование/Понятия/Express.md",
