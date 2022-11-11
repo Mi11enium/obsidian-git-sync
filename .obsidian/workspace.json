@@ -138,9 +138,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f98ef6446856723b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Бизнес/Предприниматель/Общее.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -207,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Мнемотехника/Курс/4.1 Цепочка.md",
+                "file": "Бизнес/Предприниматель/Общее.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Мнемотехника/Курс/4.1 Цепочка.md"
+                "file": "Бизнес/Предприниматель/Общее.md"
               }
             }
           }
@@ -254,11 +266,11 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "899a7b15528aaa32",
+  "active": "f98ef6446856723b",
   "lastOpenFiles": [
+    "Мнемотехника/Курс/4.1 Цепочка.md",
     "Мнемотехника/Курс/4. Работа над ошибками.md",
     "Мнемотехника/Курс/3. Стимул-реакция.md",
-    "Мнемотехника/Курс/4.1 Цепочка.md",
     "Мнемотехника/Курс/1. Введение.md",
     "Мнемотехника/Курс/2. Образ.md",
     "Мнемотехника/Курс/1 Урок. Введение 1.md",
