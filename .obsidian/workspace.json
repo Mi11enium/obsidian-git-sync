@@ -114,9 +114,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b300957a15681a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мнемотехника/Курс/4. Работа над ошибками.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -183,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Мнемотехника/Курс/3. Стимул-реакция.md",
+                "file": "Мнемотехника/Курс/4. Работа над ошибками.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +231,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Мнемотехника/Курс/3. Стимул-реакция.md"
+                "file": "Мнемотехника/Курс/4. Работа над ошибками.md"
               }
             }
           }
@@ -230,8 +242,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "683067109acf7cf4",
+  "active": "6b300957a15681a0",
   "lastOpenFiles": [
+    "Мнемотехника/Курс/3. Стимул-реакция.md",
+    "Мнемотехника/Курс/4. Работа над ошибками.md",
     "Мнемотехника/Курс/2. Образ.md",
     "Мнемотехника/Курс/1 Урок. Введение 1.md",
     "Мнемотехника/Курс/1. Введение.md",
@@ -239,8 +253,6 @@
     "English/Words/rapid.md",
     "English/Words/actually.md",
     "English/Words/efficient.md",
-    "Мнемотехника/Память/Память.md",
-    "Программирование/Понятия/XML.md",
-    "Программирование/Понятия/Express.md"
+    "Мнемотехника/Память/Память.md"
   ]
 }
