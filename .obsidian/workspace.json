@@ -11,11 +11,28 @@
             "id": "c4b105640fd61a72",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Бизнес/Предприниматель/Общее.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed761c2d6c93cc01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мнемотехника/Курс/7. Метод цицерона.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Мнемотехника/Память/Штаты США.md",
+                "file": "Мнемотехника/Курс/7. Метод цицерона.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Мнемотехника/Память/Штаты США.md"
+                "file": "Мнемотехника/Курс/7. Метод цицерона.md"
               }
             }
           }
@@ -129,8 +146,9 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "20dd0f0e9e04fb29",
+  "active": "ed761c2d6c93cc01",
   "lastOpenFiles": [
+    "Бизнес/Предприниматель/Общее.md",
     "Мнемотехника/Курс/6. Кодирование.md",
     "Мнемотехника/Память/Штаты США.md",
     "Мнемотехника/Память/Память.md",
@@ -139,7 +157,6 @@
     "Мнемотехника/Курс/4. Работа над ошибками.md",
     "Мнемотехника/Курс/3. Стимул-реакция.md",
     "Мнемотехника/Курс/2. Образ.md",
-    "Бизнес/Предприниматель/Общее.md",
     "Мнемотехника/Курс/1. Введение.md"
   ]
 }
