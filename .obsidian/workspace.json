@@ -126,9 +126,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6f4aa69ec61ec029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/2. sep и end.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -195,7 +207,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/1. print и input.md",
+                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/2. sep и end.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/1. print и input.md"
+                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/2. sep и end.md"
               }
             }
           }
@@ -242,10 +254,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "52839b0ae020683a",
+  "active": "6f4aa69ec61ec029",
   "lastOpenFiles": [
-    "Программирование/Python/Stepik - Поколение python/0. Введение.md",
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/1. print и input.md",
+    "Программирование/Python/Stepik - Поколение python/0. Введение.md",
     "Программирование/Python/Stepik - Поколение python/Ввод-вывод данных.md",
     "Электрика/Готовые решения для дома/Базовые понятия.md",
     "Мнемотехника/Курс/6. Кодирование.md",
