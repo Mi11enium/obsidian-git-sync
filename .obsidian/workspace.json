@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. Целочисленная арифметика 1.md",
+                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. int() и str().md",
                 "mode": "source",
                 "source": false
               }
@@ -219,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. Целочисленная арифметика 1.md",
+                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. int() и str().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -255,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. Целочисленная арифметика 1.md"
+                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. int() и str().md"
               }
             }
           }
@@ -266,7 +266,7 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "5b744c87f9ba2338",
+  "active": "20dd0f0e9e04fb29",
   "lastOpenFiles": [
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/2. sep и end.md",
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/1. print и input.md",
