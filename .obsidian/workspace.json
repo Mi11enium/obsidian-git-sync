@@ -157,14 +157,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/4. степень, остаток, целочисленное деление.md",
+                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/2. sep и end.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8de053ab6faed0ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/1. if else.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -231,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/4. степень, остаток, целочисленное деление.md",
+                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/1. if else.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +279,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/4. степень, остаток, целочисленное деление.md"
+                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/1. if else.md"
               }
             }
           }
@@ -278,13 +290,13 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "57647728255749fb",
+  "active": "8de053ab6faed0ae",
   "lastOpenFiles": [
+    "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/2. sep и end.md",
+    "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/4. степень, остаток, целочисленное деление.md",
     "Программирование/Python/Python тьютор/Задачи.md",
     "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md",
-    "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/4. степень, остаток, целочисленное деление.md",
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. int() и str().md",
-    "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/2. sep и end.md",
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/1. print и input.md",
     "Программирование/Python/Stepik - Поколение python/0. Введение.md",
     "Программирование/Python/Stepik - Поколение python/Ввод-вывод данных.md",
