@@ -169,14 +169,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/1. if else.md",
+                "file": "Программирование/Изучение/Как правильно изучать программирование.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc9c1803b36c2e49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/2. not and or.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -243,7 +255,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/1. if else.md",
+                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/2. not and or.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -279,7 +291,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/1. if else.md"
+                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/2. not and or.md"
               }
             }
           }
@@ -290,8 +302,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "8de053ab6faed0ae",
+  "active": "bc9c1803b36c2e49",
   "lastOpenFiles": [
+    "Программирование/Изучение/Как правильно изучать программирование.md",
+    "Программирование/Python/Stepik - Поколение python/2 Условный оператор/1. if else.md",
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/2. sep и end.md",
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/4. степень, остаток, целочисленное деление.md",
     "Программирование/Python/Python тьютор/Задачи.md",
@@ -299,8 +313,6 @@
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. int() и str().md",
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/1. print и input.md",
     "Программирование/Python/Stepik - Поколение python/0. Введение.md",
-    "Программирование/Python/Stepik - Поколение python/Ввод-вывод данных.md",
-    "Электрика/Готовые решения для дома/Базовые понятия.md",
-    "Мнемотехника/Курс/6. Кодирование.md"
+    "Программирование/Python/Stepik - Поколение python/Ввод-вывод данных.md"
   ]
 }
