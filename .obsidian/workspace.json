@@ -186,9 +186,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "92065d2b5e993538",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/3. elif.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -255,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/2. not and or.md",
+                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/3. elif.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -291,7 +303,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/2. not and or.md"
+                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/3. elif.md"
               }
             }
           }
@@ -300,10 +312,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5
   },
-  "active": "bc9c1803b36c2e49",
+  "active": "92065d2b5e993538",
   "lastOpenFiles": [
+    "Программирование/Python/Stepik - Поколение python/2 Условный оператор/2. not and or.md",
     "Программирование/Изучение/Как правильно изучать программирование.md",
     "Программирование/Python/Stepik - Поколение python/2 Условный оператор/1. if else.md",
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/2. sep и end.md",
@@ -312,7 +325,6 @@
     "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md",
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. int() и str().md",
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/1. print и input.md",
-    "Программирование/Python/Stepik - Поколение python/0. Введение.md",
-    "Программирование/Python/Stepik - Поколение python/Ввод-вывод данных.md"
+    "Программирование/Python/Stepik - Поколение python/0. Введение.md"
   ]
 }
