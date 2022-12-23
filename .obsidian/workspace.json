@@ -8,138 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4b105640fd61a72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Бизнес/Предприниматель/Общее.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed761c2d6c93cc01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Мнемотехника/Курс/7. Метод цицерона.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5407935243f93c81",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Менеджмент/Управление проектами/2. Что такое артефакт проекта.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "68d3e5c7520a5ab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Понятия/Браузер.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14ac232047cc586d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Изучение/Как правильно изучать программирование.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fd29b819be2e7c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Книги/Физика (курс для начинающих)/1. Энергия, работа, теплота.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fb8dab4b7ebd5785",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Изучение/Как правильно изучать программирование.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d68558c70081d85c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Электрика/Готовые решения для дома/Базовые понятия.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0ae8c2a4129af5e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/1. print и input.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52839b0ae020683a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/1. print и input.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f4aa69ec61ec029",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/2. sep и end.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "5b744c87f9ba2338",
             "type": "leaf",
             "state": {
@@ -152,36 +20,12 @@
             }
           },
           {
-            "id": "57647728255749fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/2. sep и end.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8de053ab6faed0ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Изучение/Как правильно изучать программирование.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bc9c1803b36c2e49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/2. not and or.md",
+                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/1. if else.md",
                 "mode": "source",
                 "source": false
               }
@@ -198,19 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "36147e0ad587c901",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
           }
         ],
-        "currentTab": 16
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -277,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/3. elif.md",
+                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/1. if else.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -313,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/3. elif.md"
+                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/1. if else.md"
               }
             }
           }
@@ -338,17 +172,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "36147e0ad587c901",
+  "active": "8de053ab6faed0ae",
   "lastOpenFiles": [
     "Программирование/Python/Stepik - Поколение python/2 Условный оператор/2. not and or.md",
-    "Программирование/Изучение/Как правильно изучать программирование.md",
     "Программирование/Python/Stepik - Поколение python/2 Условный оператор/1. if else.md",
-    "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/2. sep и end.md",
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/4. степень, остаток, целочисленное деление.md",
-    "Программирование/Python/Python тьютор/Задачи.md",
-    "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md",
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. int() и str().md",
+    "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/2. sep и end.md",
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/1. print и input.md",
-    "Программирование/Python/Stepik - Поколение python/0. Введение.md"
+    "Программирование/Изучение/Как правильно изучать программирование.md",
+    "Программирование/Python/Stepik - Поколение python/2 Условный оператор/3. elif.md",
+    "Программирование/Python/Python тьютор/Задачи.md",
+    "Программирование/Python/Python тьютор/1. Ввод и вывод данных.md"
   ]
 }
