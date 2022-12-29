@@ -56,6 +56,16 @@
             }
           },
           {
+            "id": "1938bb3a4e071361",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.9"
+              }
+            }
+          },
+          {
             "id": "92065d2b5e993538",
             "type": "leaf",
             "state": {
@@ -68,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -196,7 +206,7 @@
       "random-note:Open random note": false
     }
   },
-  "active": "251a2f9a4297a999",
+  "active": "1938bb3a4e071361",
   "lastOpenFiles": [
     "Программирование/Общие компетенции.md",
     "Программирование/Python/Stepik - Поколение python/3 Типы данных/1. float.md",
