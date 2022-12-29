@@ -54,31 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "1938bb3a4e071361",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.9"
-              }
-            }
-          },
-          {
-            "id": "92065d2b5e993538",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/3. elif.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,8 +184,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "1938bb3a4e071361",
+  "active": "251a2f9a4297a999",
   "lastOpenFiles": [
+    "Программирование/Python/Stepik - Поколение python/2 Условный оператор/3. elif.md",
+    "Программирование/Python/Stepik - Поколение python/3 Типы данных/2. min() max() abs().md",
     "Программирование/Общие компетенции.md",
     "Программирование/Python/Stepik - Поколение python/3 Типы данных/1. float.md",
     "Программирование/Python/Stepik - Поколение python/2 Условный оператор/1. if else.md",
@@ -215,8 +195,6 @@
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/4. степень, остаток, целочисленное деление.md",
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. int() и str().md",
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/2. sep и end.md",
-    "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/1. print и input.md",
-    "Программирование/Изучение/Как правильно изучать программирование.md",
-    "Программирование/Python/Stepik - Поколение python/2 Условный оператор/3. elif.md"
+    "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/1. print и input.md"
   ]
 }
