@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9ca6fdeb0793463b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Python/Stepik - Поколение python/3 Типы данных/3. str() len().md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/3 Типы данных/2. min() max() abs().md",
+                "file": "Программирование/Python/Stepik - Поколение python/3 Типы данных/3. str() len().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/3 Типы данных/2. min() max() abs().md"
+                "file": "Программирование/Python/Stepik - Поколение python/3 Типы данных/3. str() len().md"
               }
             }
           }
@@ -184,10 +196,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "251a2f9a4297a999",
+  "active": "20dd0f0e9e04fb29",
   "lastOpenFiles": [
-    "Программирование/Python/Stepik - Поколение python/2 Условный оператор/3. elif.md",
     "Программирование/Python/Stepik - Поколение python/3 Типы данных/2. min() max() abs().md",
+    "Программирование/Python/Stepik - Поколение python/2 Условный оператор/3. elif.md",
     "Программирование/Общие компетенции.md",
     "Программирование/Python/Stepik - Поколение python/3 Типы данных/1. float.md",
     "Программирование/Python/Stepik - Поколение python/2 Условный оператор/1. if else.md",
