@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/3 Типы данных/3. str() len().md",
+                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. int() и str().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/3 Типы данных/3. str() len().md"
+                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. int() и str().md"
               }
             }
           }
