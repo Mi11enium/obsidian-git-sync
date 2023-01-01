@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. int() и str().md",
+                "file": "Программирование/Python/Stepik - Поколение python/3 Типы данных/3. str() len() in.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,14 +61,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/3 Типы данных/3. str() len().md",
+                "file": "Программирование/Python/Stepik - Поколение python/3 Типы данных/3. str() len() in.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. int() и str().md",
+                "file": "Программирование/Python/Stepik - Поколение python/3 Типы данных/3. str() len() in.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. int() и str().md"
+                "file": "Программирование/Python/Stepik - Поколение python/3 Типы данных/3. str() len() in.md"
               }
             }
           }
@@ -196,8 +195,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "20dd0f0e9e04fb29",
+  "active": "5b744c87f9ba2338",
   "lastOpenFiles": [
+    "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. int() и str().md",
     "Программирование/Python/Stepik - Поколение python/3 Типы данных/2. min() max() abs().md",
     "Программирование/Python/Stepik - Поколение python/2 Условный оператор/3. elif.md",
     "Программирование/Общие компетенции.md",
@@ -205,7 +205,6 @@
     "Программирование/Python/Stepik - Поколение python/2 Условный оператор/1. if else.md",
     "Программирование/Python/Stepik - Поколение python/2 Условный оператор/2. not and or.md",
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/4. степень, остаток, целочисленное деление.md",
-    "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. int() и str().md",
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/2. sep и end.md",
     "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/1. print и input.md"
   ]
