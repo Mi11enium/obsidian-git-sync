@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Words/rapid.md",
+                "file": "English/Words/consequences.md",
                 "mode": "source",
                 "source": false
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Words/rapid.md",
+                "file": "English/Words/consequences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -219,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Words/rapid.md"
+                "file": "English/Words/consequences.md"
               }
             }
           }
@@ -246,11 +246,11 @@
   },
   "active": "525dd2063b9a32c3",
   "lastOpenFiles": [
+    "English/Words/rapid.md",
     "English/Words/consequences.md",
     "English/Words/actually.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/2. range().md",
     "English/Words/suitable.md",
-    "English/Words/rapid.md",
     "English/Words/efficient.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/1. while, for.md",
     "Программирование/Python/Stepik - Поколение python/3 Типы данных/4. модуль math.md",
