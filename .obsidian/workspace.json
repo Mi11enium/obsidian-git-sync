@@ -4,167 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "22270720275a832e",
+        "id": "876bfc6effa3c160",
         "type": "tabs",
         "children": [
           {
-            "id": "5b744c87f9ba2338",
+            "id": "55639cc2e918e9b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/3 Типы данных/3. str() len() in.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa1597c765dba1f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/3 Типы данных/4. модуль math.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a9b00bccb2deed21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Words/suitable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab7c0dd52104757f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/2. range().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "525dd2063b9a32c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Words/consequences.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3abac513440c2710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Words/divorce.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd7477bfaa41bd01",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Words/consequences.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d003f388d1c1f4b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Words/rapid.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "80ddbc12a8b352e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Words/actually.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8de053ab6faed0ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/2 Условный оператор/1. if else.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "29a443f31a395445",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Общие компетенции.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "251a2f9a4297a999",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/3 Типы данных/2. min() max() abs().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ca6fdeb0793463b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/3 Типы данных/3. str() len() in.md",
+                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/3. counter.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Words/actually.md",
+                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/3. counter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Words/actually.md"
+                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/3. counter.md"
               }
             }
           }
@@ -292,8 +147,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "80ddbc12a8b352e8",
+  "active": "55639cc2e918e9b3",
   "lastOpenFiles": [
+    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/2. range().md",
+    "English/Words/actually.md",
     "English/Words/suitable.md",
     "English/Words/rapid.md",
     "English/Words/modernity.md",
@@ -301,8 +158,6 @@
     "English/Words/divorce.md",
     "English/Words/consequences.md",
     "English/Words/amber.md",
-    "English/Words/admire.md",
-    "English/Words/actually.md",
-    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/2. range().md"
+    "English/Words/admire.md"
   ]
 }
