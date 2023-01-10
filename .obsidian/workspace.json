@@ -109,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Words/amber.md",
+                "file": "English/Words/actually.md",
                 "mode": "source",
                 "source": false
               }
@@ -231,7 +231,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Words/amber.md",
+                "file": "English/Words/actually.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -267,7 +267,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Words/amber.md"
+                "file": "English/Words/actually.md"
               }
             }
           }
@@ -294,15 +294,15 @@
   },
   "active": "80ddbc12a8b352e8",
   "lastOpenFiles": [
-    "English/Words/rapid.md",
     "English/Words/suitable.md",
+    "English/Words/rapid.md",
     "English/Words/modernity.md",
     "English/Words/efficient.md",
     "English/Words/divorce.md",
     "English/Words/consequences.md",
+    "English/Words/amber.md",
     "English/Words/admire.md",
     "English/Words/actually.md",
-    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/2. range().md",
-    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/1. while, for.md"
+    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/2. range().md"
   ]
 }
