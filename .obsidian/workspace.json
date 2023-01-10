@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "525dd2063b9a32c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Words/rapid.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8de053ab6faed0ae",
             "type": "leaf",
             "state": {
@@ -104,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/2. range().md",
+                "file": "English/Words/rapid.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/2. range().md"
+                "file": "English/Words/rapid.md"
               }
             }
           }
@@ -232,17 +244,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "ab7c0dd52104757f",
+  "active": "525dd2063b9a32c3",
   "lastOpenFiles": [
+    "English/Words/consequences.md",
+    "English/Words/actually.md",
+    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/2. range().md",
     "English/Words/suitable.md",
     "English/Words/rapid.md",
     "English/Words/efficient.md",
-    "English/Words/actually.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/1. while, for.md",
     "Программирование/Python/Stepik - Поколение python/3 Типы данных/4. модуль math.md",
     "Программирование/Python/Stepik - Поколение python/3 Типы данных/3. str() len() in.md",
-    "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. int() и str().md",
-    "Программирование/Python/Stepik - Поколение python/3 Типы данных/2. min() max() abs().md",
-    "Программирование/Python/Stepik - Поколение python/2 Условный оператор/3. elif.md"
+    "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. int() и str().md"
   ]
 }
