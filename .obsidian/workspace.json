@@ -92,6 +92,18 @@
             }
           },
           {
+            "id": "d003f388d1c1f4b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Words/modernity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8de053ab6faed0ae",
             "type": "leaf",
             "state": {
@@ -140,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -207,7 +219,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Words/consequences.md",
+                "file": "English/Words/modernity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +255,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Words/consequences.md"
+                "file": "English/Words/modernity.md"
               }
             }
           }
@@ -268,11 +280,11 @@
       "random-note:Open random note": false
     }
   },
-  "active": "cd7477bfaa41bd01",
+  "active": "d003f388d1c1f4b1",
   "lastOpenFiles": [
+    "English/Words/consequences.md",
     "English/Words/admire.md",
     "English/Words/divorce.md",
-    "English/Words/consequences.md",
     "English/Words/rapid.md",
     "English/Words/actually.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/2. range().md",
