@@ -68,6 +68,30 @@
             }
           },
           {
+            "id": "3abac513440c2710",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Words/divorce.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd7477bfaa41bd01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Words/consequences.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8de053ab6faed0ae",
             "type": "leaf",
             "state": {
@@ -116,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -244,17 +268,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "525dd2063b9a32c3",
+  "active": "cd7477bfaa41bd01",
   "lastOpenFiles": [
-    "English/Words/rapid.md",
+    "English/Words/admire.md",
+    "English/Words/divorce.md",
     "English/Words/consequences.md",
+    "English/Words/rapid.md",
     "English/Words/actually.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/2. range().md",
     "English/Words/suitable.md",
     "English/Words/efficient.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/1. while, for.md",
-    "Программирование/Python/Stepik - Поколение python/3 Типы данных/4. модуль math.md",
-    "Программирование/Python/Stepik - Поколение python/3 Типы данных/3. str() len() in.md",
-    "Программирование/Python/Stepik - Поколение python/1 Ввод-вывод данных/3. int() и str().md"
+    "Программирование/Python/Stepik - Поколение python/3 Типы данных/4. модуль math.md"
   ]
 }
