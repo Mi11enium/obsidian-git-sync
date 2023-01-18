@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md",
+                "file": "Программирование/Изучение/Как правильно изучать программирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md",
+                "file": "Программирование/Изучение/Как правильно изучать программирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md"
+                "file": "Программирование/Изучение/Как правильно изучать программирование.md"
               }
             }
           }
@@ -162,6 +162,8 @@
   },
   "active": "288cfa3b8ba46ade",
   "lastOpenFiles": [
+    "Программирование/Общие компетенции.md",
+    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/4. while.md",
     "Picture/Pasted image 20221218163536.png",
     "English/Words/suitable.md",
@@ -169,8 +171,6 @@
     "English/Words/modernity.md",
     "English/Words/efficient.md",
     "English/Words/divorce.md",
-    "English/Words/consequences.md",
-    "English/Words/amber.md",
-    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/3. counter.md"
+    "English/Words/consequences.md"
   ]
 }
