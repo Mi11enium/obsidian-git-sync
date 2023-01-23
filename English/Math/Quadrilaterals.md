@@ -29,6 +29,22 @@ A Kite
 - None of the sides are parralel
 - None of the angles are right. (90)
 
+A Trapezoid
+- One pair of opposite sides is parallel
+
+An irregular quadrilateral
+- None of the sides are equal
+- None of the angles are the same
+- None of the sides are parallel
+
+### Points to remember
+Quadrilaterals has:
+- Polygons
+- 4 sides
+- 4 angles
+- 360
+
+
 
 
 
