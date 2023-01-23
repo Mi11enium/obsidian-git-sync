@@ -1,4 +1,5 @@
 ## Quadrilaterals and their properties
+![[Pasted image 20230123142845.png]]
 
 ### Quadrilaterals
 - 4 sides
