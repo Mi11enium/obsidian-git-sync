@@ -4,47 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "876bfc6effa3c160",
-        "type": "tabs",
+        "id": "05c1ced8ddf1a716",
+        "type": "split",
         "children": [
           {
-            "id": "89b95f30c1098e86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/4. while.md",
-                "mode": "source",
-                "source": false
+            "id": "876bfc6effa3c160",
+            "type": "tabs",
+            "dimension": 80.76923076923077,
+            "children": [
+              {
+                "id": "89b95f30c1098e86",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/4. while.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "288cfa3b8ba46ade",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "English/Words/suitable.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ce1dbdaaf73320c5",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
-            }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "288cfa3b8ba46ade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Words/suitable.md",
-                "mode": "source",
-                "source": false
+            "id": "f8ac98dd9beb4041",
+            "type": "tabs",
+            "dimension": 19.230769230769234,
+            "children": [
+              {
+                "id": "9088ec2925ed97c3",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmap",
+                  "state": {}
+                }
               }
-            }
-          },
-          {
-            "id": "ce1dbdaaf73320c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Math/Quadrilaterals.md",
-                "mode": "source",
-                "source": false
-              }
-            }
+            ]
           }
         ],
-        "currentTab": 2
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -111,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Math/Quadrilaterals.md",
+                "file": "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Math/Quadrilaterals.md"
+                "file": "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md"
               }
             }
           }
@@ -174,15 +197,15 @@
   },
   "active": "ce1dbdaaf73320c5",
   "lastOpenFiles": [
-    "English/Words/suitable.md",
-    "English/Words/rapid.md",
-    "English/Words/modernity.md",
-    "English/Words/efficient.md",
-    "English/Words/divorce.md",
-    "English/Words/consequences.md",
-    "English/Words/amber.md",
-    "English/Words/admire.md",
-    "English/Words/actually.md",
-    "Битрикс/Контент-Менеджер/Информационные блоки/Как устроены инфоблоки.md"
+    "Тестирование программного обеспечения/Тестирование/Жизненный цикл ПО.md",
+    "Тестирование программного обеспечения/Тест-определения/Этапы тестирования.md",
+    "Тестирование программного обеспечения/Тест-определения/Что такое чек-лист.md",
+    "Тестирование программного обеспечения/Тест-определения/Что такое тест-план.md",
+    "Тестирование программного обеспечения/Тест-определения/Что такое тест-кейс.md",
+    "Тестирование программного обеспечения/Тест-определения/Что такое тест-дизайн.md",
+    "Тестирование программного обеспечения/Баги и требования/Что такое баг.md",
+    "Тестирование программного обеспечения/Баги и требования/Что такое баг-репорт.md",
+    "Тестирование программного обеспечения/Баги и требования/Локализация бага.md",
+    "Тестирование программного обеспечения/Баги и требования/Какие бывают требования.md"
   ]
 }
