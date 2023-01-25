@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Words/proud.md",
+                "file": "English/Words/throw.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Words/proud.md",
+                "file": "English/Words/throw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Words/proud.md"
+                "file": "English/Words/throw.md"
               }
             }
           }
@@ -188,15 +188,15 @@
   },
   "active": "5aef5508201518fc",
   "lastOpenFiles": [
+    "English/Words/suitable.md",
+    "English/Words/throw.md",
+    "English/Words/rapid.md",
+    "English/Words/proud.md",
     "English/Words/actually.md",
     "English/Words/admire.md",
     "English/Words/amber.md",
-    "English/Words/divorce.md",
     "English/Words/consequences.md",
-    "English/Words/efficient.md",
-    "English/Words/modernity.md",
-    "English/Words/rapid.md",
-    "English/Words/suitable.md",
-    "English/Words/throw.md"
+    "English/Words/divorce.md",
+    "English/Words/efficient.md"
   ]
 }
