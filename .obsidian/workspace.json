@@ -145,14 +145,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Words/employment.md",
+                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25389462d9a47211",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/6. break, continue, else.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       },
       {
         "id": "8f4d1739872d8dab",
@@ -233,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Words/employment.md",
+                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/6. break, continue, else.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Words/employment.md"
+                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/6. break, continue, else.md"
               }
             }
           }
@@ -294,17 +306,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "6e71d5d5f232bb56",
+  "active": "25389462d9a47211",
   "lastOpenFiles": [
+    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md",
+    "English/Words/employment.md",
     "Picture/Pasted image 20230125112206.png",
     "English/Как учить слова.md",
-    "English/Words/employment.md",
     "English/Words/upon.md",
     "English/Words/worth.md",
     "English/Words/invoke.md",
     "English/Words/flavor.md",
     "English/Words/comprehensive.md",
-    "English/Words/disease.md",
-    "English/Words/certainly.md"
+    "English/Words/disease.md"
   ]
 }
