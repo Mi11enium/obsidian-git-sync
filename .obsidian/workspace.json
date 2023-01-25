@@ -78,9 +78,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ecd216e08090d209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Words/flavor.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "11bf02834265f636",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Words/worth.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       },
       {
         "id": "8f4d1739872d8dab",
@@ -161,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Words/comprehensive.md",
+                "file": "English/Words/worth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Words/comprehensive.md"
+                "file": "English/Words/worth.md"
               }
             }
           }
@@ -222,8 +246,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a54f7f18ce82e5c3",
+  "active": "11bf02834265f636",
   "lastOpenFiles": [
+    "English/Words/flavor.md",
+    "English/Words/comprehensive.md",
     "English/Words/disease.md",
     "English/Words/certainly.md",
     "English/Words/throw.md",
@@ -231,8 +257,6 @@
     "English/Words/rapid.md",
     "English/Words/proud.md",
     "English/Words/actually.md",
-    "English/Words/admire.md",
-    "English/Words/amber.md",
-    "English/Words/consequences.md"
+    "English/Words/admire.md"
   ]
 }
