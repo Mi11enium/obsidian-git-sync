@@ -138,9 +138,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6e71d5d5f232bb56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Как учить слова.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       },
       {
         "id": "8f4d1739872d8dab",
@@ -221,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Words/employment.md",
+                "file": "English/Как учить слова.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -257,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Words/employment.md"
+                "file": "English/Как учить слова.md"
               }
             }
           }
@@ -282,17 +294,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "31d651c0c64d1dc2",
+  "active": "20dd0f0e9e04fb29",
   "lastOpenFiles": [
+    "Pasted image 20230125112206.png",
+    "English/Как учить слова.md",
+    "English/Words/employment.md",
     "English/Words/upon.md",
     "English/Words/worth.md",
     "English/Words/invoke.md",
     "English/Words/flavor.md",
     "English/Words/comprehensive.md",
     "English/Words/disease.md",
-    "English/Words/certainly.md",
-    "English/Words/throw.md",
-    "English/Words/suitable.md",
-    "English/Words/rapid.md"
+    "English/Words/certainly.md"
   ]
 }
