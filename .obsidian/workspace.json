@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Words/suitable.md",
+                "file": "English/Words/actually.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5aef5508201518fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Words/proud.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "8f4d1739872d8dab",
@@ -113,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Words/suitable.md",
+                "file": "English/Words/proud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Words/suitable.md"
+                "file": "English/Words/proud.md"
               }
             }
           }
@@ -174,17 +186,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "21c4f81d1d57e51d",
+  "active": "5aef5508201518fc",
   "lastOpenFiles": [
-    "English/Words/throw.md",
-    "English/Words/suitable.md",
-    "English/Words/rapid.md",
-    "English/Words/modernity.md",
-    "English/Words/efficient.md",
-    "English/Words/divorce.md",
-    "English/Words/amber.md",
-    "English/Words/consequences.md",
+    "English/Words/actually.md",
     "English/Words/admire.md",
-    "English/Words/actually.md"
+    "English/Words/amber.md",
+    "English/Words/divorce.md",
+    "English/Words/consequences.md",
+    "English/Words/efficient.md",
+    "English/Words/modernity.md",
+    "English/Words/rapid.md",
+    "English/Words/suitable.md",
+    "English/Words/throw.md"
   ]
 }
