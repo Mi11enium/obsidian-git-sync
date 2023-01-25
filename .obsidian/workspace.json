@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7f4f86c79035aaf0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Words/disease.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "8f4d1739872d8dab",
@@ -137,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Words/certainly.md",
+                "file": "English/Words/disease.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Words/certainly.md"
+                "file": "English/Words/disease.md"
               }
             }
           }
@@ -198,8 +210,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "c4e83a83a8c7e14b",
+  "active": "7f4f86c79035aaf0",
   "lastOpenFiles": [
+    "English/Words/certainly.md",
     "English/Words/throw.md",
     "English/Words/suitable.md",
     "English/Words/rapid.md",
@@ -208,7 +221,6 @@
     "English/Words/admire.md",
     "English/Words/amber.md",
     "English/Words/consequences.md",
-    "English/Words/divorce.md",
-    "English/Words/efficient.md"
+    "English/Words/divorce.md"
   ]
 }
