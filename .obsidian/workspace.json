@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Как учить слова.md",
+                "file": "English/Words/employment.md",
                 "mode": "source",
                 "source": false
               }
@@ -233,7 +233,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Как учить слова.md",
+                "file": "English/Words/employment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,7 +269,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Как учить слова.md"
+                "file": "English/Words/employment.md"
               }
             }
           }
@@ -294,9 +294,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "20dd0f0e9e04fb29",
+  "active": "6e71d5d5f232bb56",
   "lastOpenFiles": [
-    "Pasted image 20230125112206.png",
+    "Picture/Pasted image 20230125112206.png",
     "English/Как учить слова.md",
     "English/Words/employment.md",
     "English/Words/upon.md",
