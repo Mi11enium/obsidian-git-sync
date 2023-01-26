@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/6. break, continue, else.md",
+                "file": "Электрика/Готовые решения для дома/Базовые понятия.md",
                 "mode": "source",
                 "source": false
               }
@@ -245,7 +245,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/6. break, continue, else.md",
+                "file": "Электрика/Готовые решения для дома/Базовые понятия.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/6. break, continue, else.md"
+                "file": "Электрика/Готовые решения для дома/Базовые понятия.md"
               }
             }
           }
@@ -308,15 +308,15 @@
   },
   "active": "25389462d9a47211",
   "lastOpenFiles": [
+    "Программирование/Общие компетенции.md",
+    "Программирование/Изучение/Как правильно изучать программирование.md",
+    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/6. break, continue, else.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md",
     "English/Words/employment.md",
     "Picture/Pasted image 20230125112206.png",
     "English/Как учить слова.md",
     "English/Words/upon.md",
     "English/Words/worth.md",
-    "English/Words/invoke.md",
-    "English/Words/flavor.md",
-    "English/Words/comprehensive.md",
-    "English/Words/disease.md"
+    "English/Words/invoke.md"
   ]
 }
