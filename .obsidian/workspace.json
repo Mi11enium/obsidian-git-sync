@@ -6,6 +6,7 @@
       {
         "id": "f8ac98dd9beb4041",
         "type": "tabs",
+        "dimension": 49.96243425995492,
         "children": [
           {
             "id": "c054fc1bab7e46ca",
@@ -205,7 +206,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Knowledge Managment/Фазы PKM.md",
+                "file": "Проекты/Youtube Tabulatu Cover/Видео.md",
                 "mode": "source",
                 "source": false
               }
@@ -217,6 +218,7 @@
       {
         "id": "8f4d1739872d8dab",
         "type": "tabs",
+        "dimension": 50.037565740045075,
         "children": [
           {
             "id": "cce981a1a645d0d3",
@@ -293,7 +295,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Knowledge Managment/Фазы PKM.md",
+                "file": "Проекты/Youtube Tabulatu Cover/Видео.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -329,7 +331,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Knowledge Managment/Фазы PKM.md"
+                "file": "Проекты/Youtube Tabulatu Cover/Видео.md"
               }
             }
           }
@@ -356,6 +358,8 @@
   },
   "active": "a1e19e7537b66aea",
   "lastOpenFiles": [
+    "Проекты/Youtube Tabulatu Cover/Общее.md",
+    "Personal Knowledge Managment/Фазы PKM.md",
     "Personal Knowledge Managment/Study technique/Фазы.md",
     "Personal Knowledge Managment/1.md",
     "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
@@ -363,8 +367,6 @@
     "Менеджмент/Управление проектами/4. Философии, Методологии и Фреймворки.md",
     "Менеджмент/Управление проектами/5. Циклы разработки ПО.md",
     "Менеджмент/Управление проектами/3. Рабочая среда менеджера.md",
-    "Менеджмент/Управление проектами/2. Что такое артефакт проекта.md",
-    "Менеджмент/Управление проектами/1. Что такое проект.md",
-    "Книги/Физика (курс для начинающих)/1. Энергия, работа, теплота.md"
+    "Менеджмент/Управление проектами/2. Что такое артефакт проекта.md"
   ]
 }
