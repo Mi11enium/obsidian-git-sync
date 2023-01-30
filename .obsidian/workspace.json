@@ -230,7 +230,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Восприятие/Уход за кожей лица.md",
+                "file": "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md",
                 "mode": "source",
                 "source": false
               }
@@ -319,7 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Восприятие/Уход за кожей лица.md",
+                "file": "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -355,7 +355,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Восприятие/Уход за кожей лица.md"
+                "file": "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md"
               }
             }
           }
@@ -382,6 +382,7 @@
   },
   "active": "18e7a7b8a1be3f6d",
   "lastOpenFiles": [
+    "Восприятие/Уход за кожей лица.md",
     "Восприятие/Парфюм.md",
     "Проекты/Youtube Tabulatu Cover/Видео.md",
     "Проекты/Youtube Tabulatu Cover/Общее.md",
@@ -390,7 +391,6 @@
     "Personal Knowledge Managment/1.md",
     "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
     "Personal Knowledge Managment/THE BEST Study Technique.md",
-    "Менеджмент/Управление проектами/4. Философии, Методологии и Фреймворки.md",
-    "Менеджмент/Управление проектами/5. Циклы разработки ПО.md"
+    "Менеджмент/Управление проектами/4. Философии, Методологии и Фреймворки.md"
   ]
 }
