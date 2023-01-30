@@ -223,9 +223,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "18e7a7b8a1be3f6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Восприятие/Уход за кожей лица.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       },
       {
         "id": "8f4d1739872d8dab",
@@ -307,7 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Восприятие/Парфюм.md",
+                "file": "Восприятие/Уход за кожей лица.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -343,7 +355,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Восприятие/Парфюм.md"
+                "file": "Восприятие/Уход за кожей лица.md"
               }
             }
           }
@@ -368,8 +380,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "79c798da9a00cc91",
+  "active": "18e7a7b8a1be3f6d",
   "lastOpenFiles": [
+    "Восприятие/Парфюм.md",
     "Проекты/Youtube Tabulatu Cover/Видео.md",
     "Проекты/Youtube Tabulatu Cover/Общее.md",
     "Personal Knowledge Managment/Фазы PKM.md",
@@ -378,7 +391,6 @@
     "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
     "Personal Knowledge Managment/THE BEST Study Technique.md",
     "Менеджмент/Управление проектами/4. Философии, Методологии и Фреймворки.md",
-    "Менеджмент/Управление проектами/5. Циклы разработки ПО.md",
-    "Менеджмент/Управление проектами/3. Рабочая среда менеджера.md"
+    "Менеджмент/Управление проектами/5. Циклы разработки ПО.md"
   ]
 }
