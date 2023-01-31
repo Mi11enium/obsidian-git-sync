@@ -266,7 +266,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разное/Все подряд.md",
+                "file": "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
                 "mode": "source",
                 "source": false
               }
@@ -355,7 +355,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Разное/Все подряд.md",
+                "file": "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -391,7 +391,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Разное/Все подряд.md"
+                "file": "Personal Knowledge Managment/Study technique/Inquiry-based learning.md"
               }
             }
           }
@@ -417,15 +417,15 @@
   },
   "active": "56c8fb47340ec776",
   "lastOpenFiles": [
+    "Personal Knowledge Managment/THE BEST Study Technique.md",
+    "Personal Knowledge Managment/Фазы PKM.md",
+    "Personal Knowledge Managment/1.md",
+    "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
+    "Разное/Все подряд.md",
     "Тестирование программного обеспечения/Виды тестирования ПО/Виды тестирования ПО.md",
     "Тестирование программного обеспечения/Виды тестирования ПО/Исчерпывающее тестирование.md",
     "Тело/Упражнения.md",
     "Тело/Уход за кожей лица.md",
-    "Тело/Парфюм.md",
-    "Тестирование программного обеспечения/Виды тестирования ПО/Не функциональные.md",
-    "Тестирование программного обеспечения/Виды тестирования ПО/Тестирование взаимодействия.md",
-    "Тестирование программного обеспечения/Уровни тестирования ПО/Интеграционное тестирование.md",
-    "Тестирование программного обеспечения/Уровни тестирования ПО/Уровни тестирования ПО.md",
-    "Pasted image 20230131120429.png"
+    "Тело/Парфюм.md"
   ]
 }
