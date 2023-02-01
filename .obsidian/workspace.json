@@ -278,7 +278,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/7. Ревью.md",
+                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md",
                 "mode": "source",
                 "source": false
               }
@@ -367,7 +367,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/7. Ревью.md",
+                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -403,7 +403,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/7. Ревью.md"
+                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md"
               }
             }
           }
@@ -429,6 +429,8 @@
   },
   "active": "695337cc4e33ba68",
   "lastOpenFiles": [
+    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/6. break, continue, else.md",
+    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/7. Ревью.md",
     "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
     "Personal Knowledge Managment/THE BEST Study Technique.md",
     "Personal Knowledge Managment/Фазы PKM.md",
@@ -436,8 +438,6 @@
     "Разное/Все подряд.md",
     "Тестирование программного обеспечения/Виды тестирования ПО/Виды тестирования ПО.md",
     "Тестирование программного обеспечения/Виды тестирования ПО/Исчерпывающее тестирование.md",
-    "Тело/Упражнения.md",
-    "Тело/Уход за кожей лица.md",
-    "Тело/Парфюм.md"
+    "Тело/Упражнения.md"
   ]
 }
