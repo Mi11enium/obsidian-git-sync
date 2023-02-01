@@ -283,9 +283,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "952800c8a26d3e30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/8. Вложенные циклы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 22
+        "currentTab": 23
       },
       {
         "id": "8f4d1739872d8dab",
@@ -367,7 +379,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md",
+                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/8. Вложенные циклы.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -403,7 +415,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md"
+                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/8. Вложенные циклы.md"
               }
             }
           }
@@ -427,8 +439,9 @@
       "random-note:Open random note": false
     }
   },
-  "active": "695337cc4e33ba68",
+  "active": "952800c8a26d3e30",
   "lastOpenFiles": [
+    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/6. break, continue, else.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/7. Ревью.md",
     "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
@@ -437,7 +450,6 @@
     "Personal Knowledge Managment/1.md",
     "Разное/Все подряд.md",
     "Тестирование программного обеспечения/Виды тестирования ПО/Виды тестирования ПО.md",
-    "Тестирование программного обеспечения/Виды тестирования ПО/Исчерпывающее тестирование.md",
-    "Тело/Упражнения.md"
+    "Тестирование программного обеспечения/Виды тестирования ПО/Исчерпывающее тестирование.md"
   ]
 }
