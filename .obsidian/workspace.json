@@ -290,7 +290,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/8. Вложенные циклы.md",
+                "file": "Personal Knowledge Managment/1.md",
                 "mode": "source",
                 "source": false
               }
@@ -379,7 +379,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/8. Вложенные циклы.md",
+                "file": "Personal Knowledge Managment/1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -415,7 +415,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/8. Вложенные циклы.md"
+                "file": "Personal Knowledge Managment/1.md"
               }
             }
           }
@@ -441,6 +441,7 @@
   },
   "active": "952800c8a26d3e30",
   "lastOpenFiles": [
+    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/8. Вложенные циклы.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/6. break, continue, else.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/7. Ревью.md",
@@ -449,7 +450,6 @@
     "Personal Knowledge Managment/Фазы PKM.md",
     "Personal Knowledge Managment/1.md",
     "Разное/Все подряд.md",
-    "Тестирование программного обеспечения/Виды тестирования ПО/Виды тестирования ПО.md",
-    "Тестирование программного обеспечения/Виды тестирования ПО/Исчерпывающее тестирование.md"
+    "Тестирование программного обеспечения/Виды тестирования ПО/Виды тестирования ПО.md"
   ]
 }
