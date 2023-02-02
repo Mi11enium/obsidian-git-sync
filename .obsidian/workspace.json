@@ -6,7 +6,7 @@
       {
         "id": "f8ac98dd9beb4041",
         "type": "tabs",
-        "dimension": 49.96243425995492,
+        "dimension": 33.29994992488733,
         "children": [
           {
             "id": "c054fc1bab7e46ca",
@@ -295,14 +295,24 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c3d20f6dd2c9c3d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "Календарь/Untitled Kanban.md"
+              }
+            }
           }
         ],
-        "currentTab": 23
+        "currentTab": 24
       },
       {
         "id": "8f4d1739872d8dab",
         "type": "tabs",
-        "dimension": 50.037565740045075,
+        "dimension": 66.70005007511267,
         "children": [
           {
             "id": "cce981a1a645d0d3",
@@ -379,7 +389,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/8. Вложенные циклы.md",
+                "file": "Календарь/Untitled Kanban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -415,7 +425,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/8. Вложенные циклы.md"
+                "file": "Календарь/Untitled Kanban.md"
               }
             }
           }
@@ -439,17 +449,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "952800c8a26d3e30",
+  "active": "9c3d20f6dd2c9c3d",
   "lastOpenFiles": [
+    "Учить программирование.md",
+    "Picture/Pasted image 20230131120429.png",
+    "Picture/Pasted image 20230202105632.png",
+    "Picture/Pasted image 20230202105747.png",
+    "Untitled Kanban.md",
     "Personal Knowledge Managment/1.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/8. Вложенные циклы.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/6. break, continue, else.md",
-    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/7. Ревью.md",
-    "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
-    "Personal Knowledge Managment/THE BEST Study Technique.md",
-    "Personal Knowledge Managment/Фазы PKM.md",
-    "Разное/Все подряд.md",
-    "Тестирование программного обеспечения/Виды тестирования ПО/Виды тестирования ПО.md"
+    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/7. Ревью.md"
   ]
 }
