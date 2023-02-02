@@ -13,7 +13,7 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Календарь/Untitled Kanban.md"
+                "file": "Календарь/Weeking.md"
               }
             }
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Календарь/Untitled Kanban.md",
+                "file": "Календарь/Weeking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Календарь/Untitled Kanban.md"
+                "file": "Календарь/Weeking.md"
               }
             }
           }
@@ -158,10 +158,10 @@
       "random-note:Open random note": false
     }
   },
-  "active": "fdc679f43590c779",
+  "active": "20dd0f0e9e04fb29",
   "lastOpenFiles": [
     "Сходить в магазин за тушенкой и сыром с 7 00 до 15 00.md",
-    "Календарь/Untitled Kanban.md",
+    "Календарь/Weeking.md",
     "Съездить к маму.md",
     "English/Words/actually.md",
     "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
