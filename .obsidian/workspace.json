@@ -4,300 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f8ac98dd9beb4041",
+        "id": "8f4d1739872d8dab",
         "type": "tabs",
-        "dimension": 33.29994992488733,
         "children": [
           {
-            "id": "c054fc1bab7e46ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Words/rapid.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "21c4f81d1d57e51d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Words/actually.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5aef5508201518fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Words/throw.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4e83a83a8c7e14b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Words/certainly.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7f4f86c79035aaf0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Words/disease.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a54f7f18ce82e5c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Words/comprehensive.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecd216e08090d209",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Words/flavor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "11bf02834265f636",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Words/worth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "42c1b04d4208855b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Words/worth.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba76f009da1610cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Words/upon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31d651c0c64d1dc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/Words/employment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e71d5d5f232bb56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25389462d9a47211",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Книги/Готовые решения для дома/Базовые понятия.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3b074cc08ee9447b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Менеджмент/Управление проектами/4. Философии, Методологии и Фреймворки.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "373fd21ffb40f5a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Knowledge Managment/1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "93e3dba97aa61c89",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Knowledge Managment/1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1e19e7537b66aea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Проекты/Youtube Tabulatu Cover/Видео.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "79c798da9a00cc91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Тело/Парфюм.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "18e7a7b8a1be3f6d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "620ad00e53b25ec8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Тестирование программного обеспечения/Виды тестирования ПО/Виды тестирования ПО.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f6ce2105d86a6348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Тестирование программного обеспечения/Виды тестирования ПО/Виды тестирования ПО.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56c8fb47340ec776",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "695337cc4e33ba68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "952800c8a26d3e30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/8. Вложенные циклы.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9c3d20f6dd2c9c3d",
+            "id": "fdc679f43590c779",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -306,16 +17,14 @@
               }
             }
           }
-        ],
-        "currentTab": 24
+        ]
       },
       {
-        "id": "8f4d1739872d8dab",
+        "id": "0641b37ef6ff6717",
         "type": "tabs",
-        "dimension": 66.70005007511267,
         "children": [
           {
-            "id": "cce981a1a645d0d3",
+            "id": "b758ea68c93adc82",
             "type": "leaf",
             "state": {
               "type": "mindmap",
@@ -449,17 +158,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "9c3d20f6dd2c9c3d",
+  "active": "fdc679f43590c779",
   "lastOpenFiles": [
+    "Сходить в магазин за тушенкой и сыром с 7 00 до 15 00.md",
+    "Календарь/Untitled Kanban.md",
+    "Съездить к маму.md",
+    "English/Words/actually.md",
+    "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
+    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md",
+    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/8. Вложенные циклы.md",
     "Учить программирование.md",
     "Picture/Pasted image 20230131120429.png",
-    "Picture/Pasted image 20230202105632.png",
-    "Picture/Pasted image 20230202105747.png",
-    "Untitled Kanban.md",
-    "Personal Knowledge Managment/1.md",
-    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/8. Вложенные циклы.md",
-    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md",
-    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/6. break, continue, else.md",
-    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/7. Ревью.md"
+    "Picture/Pasted image 20230202105632.png"
   ]
 }
