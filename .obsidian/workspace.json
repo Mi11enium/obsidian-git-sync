@@ -18,20 +18,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "0641b37ef6ff6717",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b758ea68c93adc82",
-            "type": "leaf",
-            "state": {
-              "type": "mindmap",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -158,17 +144,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "20dd0f0e9e04fb29",
+  "active": "fdc679f43590c779",
   "lastOpenFiles": [
     "Сходить в магазин за тушенкой и сыром с 7 00 до 15 00.md",
-    "Календарь/Weeking.md",
     "Съездить к маму.md",
+    "Менеджмент/Управление проектами/1. Что такое проект.md",
+    "Календарь/Weeking.md",
     "English/Words/actually.md",
     "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/8. Вложенные циклы.md",
     "Учить программирование.md",
-    "Picture/Pasted image 20230131120429.png",
-    "Picture/Pasted image 20230202105632.png"
+    "Picture/Pasted image 20230131120429.png"
   ]
 }
