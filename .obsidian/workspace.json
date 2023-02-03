@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b21d0756beec3a7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Как учить грамматику.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Менеджмент/Управление проектами/4. Философии, Методологии и Фреймворки.md",
+                "file": "English/Как учить грамматику.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Менеджмент/Управление проектами/4. Философии, Методологии и Фреймворки.md"
+                "file": "English/Как учить грамматику.md"
               }
             }
           }
@@ -146,17 +159,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "a1a71a5e73b0e4b5",
+  "active": "b21d0756beec3a7a",
   "lastOpenFiles": [
+    "English/Как учить слова.md",
+    "English/Как учить грамматику.md",
+    "Менеджмент/Управление проектами/4. Философии, Методологии и Фреймворки.md",
     "Менеджмент/Управление проектами/3. Рабочая среда менеджера.md",
     "Менеджмент/Управление проектами/2. Что такое артефакт проекта.md",
     "Менеджмент/Управление проектами/1. Что такое проект.md",
     "Календарь/Съездить к маму.md",
     "чверчатпасмимс.md",
     "Календарь/Weeking.md",
-    "Календарь/Сходить в магазин за тушенкой и сыром с 7 00 до 15 00.md",
-    "English/Words/actually.md",
-    "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
-    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md"
+    "Календарь/Сходить в магазин за тушенкой и сыром с 7 00 до 15 00.md"
   ]
 }
