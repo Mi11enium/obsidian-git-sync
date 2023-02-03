@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8f4d1739872d8dab",
+        "id": "38f8dad2c4b7d04c",
         "type": "tabs",
         "children": [
           {
-            "id": "fdc679f43590c779",
+            "id": "a1a71a5e73b0e4b5",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Календарь/Weeking.md"
+                "file": "Менеджмент/Управление проектами/2. Что такое артефакт проекта.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Календарь/Weeking.md",
+                "file": "Менеджмент/Управление проектами/2. Что такое артефакт проекта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Календарь/Weeking.md"
+                "file": "Менеджмент/Управление проектами/2. Что такое артефакт проекта.md"
               }
             }
           }
@@ -144,17 +146,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "fdc679f43590c779",
+  "active": "a1a71a5e73b0e4b5",
   "lastOpenFiles": [
-    "Сходить в магазин за тушенкой и сыром с 7 00 до 15 00.md",
-    "Съездить к маму.md",
     "Менеджмент/Управление проектами/1. Что такое проект.md",
+    "Календарь/Съездить к маму.md",
+    "чверчатпасмимс.md",
+    "Менеджмент/Управление проектами/2. Что такое артефакт проекта.md",
     "Календарь/Weeking.md",
+    "Календарь/Сходить в магазин за тушенкой и сыром с 7 00 до 15 00.md",
     "English/Words/actually.md",
     "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/5. while - обработка цифр числа.md",
-    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/8. Вложенные циклы.md",
-    "Учить программирование.md",
-    "Picture/Pasted image 20230131120429.png"
+    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/8. Вложенные циклы.md"
   ]
 }
