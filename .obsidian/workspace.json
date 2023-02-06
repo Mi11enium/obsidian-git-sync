@@ -30,9 +30,201 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6ae0b04f8e3bbd43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Человек убежденный/1. Жажда перемен.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0ad6eafeccb604b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Человек убежденный/2. Стремление к перевоплощению.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5c76eec7792870c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Человек убежденный/3. Сменяемость массовых движений.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b2ec131650a2dc9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Человек убежденный/4. Роль отщепенцев в делах человеческих.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e705e2401fd88d33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Человек убежденный/5. Бедняки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "006bb0e42f7deb5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Человек убежденный/6. Не на месте.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0638763339fa482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Человек убежденный/7. Крайние эгоисты.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44fb3f732fb9ce3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Человек убежденный/8. Честолюбцы перед неограниченными возможностями.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2003d6f0e309b1f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Человек убежденный/9. Меньшинства.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "212988ce3544466a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Человек убежденный/10. Скучающие.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8f5595f3e54c5c14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Человек убежденный/11. Грешники.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13060a5ddf270317",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Человек убежденный/12. Объединенная акция и самопожертвование.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d34ed2fad807673a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Человек убежденный/13. Факторы, способствующие самопожертвованию.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e6099afc390a060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Человек убежденный/14. Объединяющие элементы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9ad6f2978a526c67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Человек убежденный/15. Люди слова.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5092fae640317d4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Книги/Человек убежденный/16. Фанатики.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -99,7 +291,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Как учить грамматику.md",
+                "file": "Книги/Человек убежденный/16. Фанатики.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +327,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Как учить грамматику.md"
+                "file": "Книги/Человек убежденный/16. Фанатики.md"
               }
             }
           }
@@ -159,17 +351,17 @@
       "random-note:Open random note": false
     }
   },
-  "active": "b21d0756beec3a7a",
+  "active": "5092fae640317d4a",
   "lastOpenFiles": [
-    "English/Как учить слова.md",
-    "English/Как учить грамматику.md",
-    "Менеджмент/Управление проектами/4. Философии, Методологии и Фреймворки.md",
-    "Менеджмент/Управление проектами/3. Рабочая среда менеджера.md",
-    "Менеджмент/Управление проектами/2. Что такое артефакт проекта.md",
-    "Менеджмент/Управление проектами/1. Что такое проект.md",
-    "Календарь/Съездить к маму.md",
-    "чверчатпасмимс.md",
-    "Календарь/Weeking.md",
-    "Календарь/Сходить в магазин за тушенкой и сыром с 7 00 до 15 00.md"
+    "Книги/Человек убежденный/15. Люди слова.md",
+    "Книги/Человек убежденный/14. Объединяющие элементы.md",
+    "Книги/Человек убежденный/13. Факторы, способствующие самопожертвованию.md",
+    "Книги/Человек убежденный/12. Объединенная акция и самопожертвование.md",
+    "Книги/Человек убежденный/11. Грешники.md",
+    "Книги/Человек убежденный/10. Скучающие.md",
+    "Книги/Человек убежденный/9. Меньшинства.md",
+    "Книги/Человек убежденный/8. Честолюбцы перед неограниченными возможностями.md",
+    "Книги/Человек убежденный/7. Крайние эгоисты.md",
+    "Книги/Человек убежденный/6. Не на месте.md"
   ]
 }
