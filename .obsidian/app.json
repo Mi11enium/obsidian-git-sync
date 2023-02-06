@@ -1,4 +1,7 @@
 {
+  "accentColor": "",
+  "showViewHeader": true,
+  "nativeMenus": false,
   "obsidianCss": true,
   "alwaysUpdateLinks": true,
   "promptDelete": false,

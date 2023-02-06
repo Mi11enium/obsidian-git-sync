@@ -3,8 +3,5 @@
   "theme": "obsidian",
   "translucency": false,
   "cssTheme": "80s Neon",
-  "accentColor": "",
-  "baseFontSizeAction": true,
-  "showViewHeader": true,
-  "nativeMenus": false
+  "baseFontSizeAction": true
 }
