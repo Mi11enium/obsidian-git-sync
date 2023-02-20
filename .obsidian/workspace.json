@@ -289,7 +289,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Knowledge Managment/Как освоить любую программу.md",
+                "file": "English/Words/actually.md",
                 "mode": "source",
                 "source": false
               }
@@ -377,7 +377,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Knowledge Managment/Как освоить любую программу.md",
+                "file": "English/Words/actually.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -413,7 +413,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Knowledge Managment/Как освоить любую программу.md"
+                "file": "English/Words/actually.md"
               }
             }
           }
@@ -425,7 +425,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-spaced-repetition:Review flashcards": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -434,20 +433,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
   "active": "4c9f89541edb8c00",
   "lastOpenFiles": [
-    "Календарь/Съездить к маму.md",
-    "Тестирование программного обеспечения/Техники тест-дизайна/Классы эквивалентности.md",
-    "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md",
-    "Тестирование программного обеспечения/Виды тестирования ПО/Уровни тестирования ПО/Интеграционное тестирование.md",
-    "Тестирование программного обеспечения/Виды тестирования ПО/Уровни тестирования ПО/Модульное тестирование.md",
-    "Тестирование программного обеспечения/Виды тестирования ПО/Уровни тестирования ПО/Приемочное тестирование.md",
-    "Тестирование программного обеспечения/Виды тестирования ПО/Уровни тестирования ПО/Системное тестирование.md",
-    "Тестирование программного обеспечения/Виды тестирования ПО/Уровни тестирования ПО/Уровни тестирования ПО.md",
-    "Тестирование программного обеспечения/Тест-определения/Этапы тестирования.md",
-    "Тестирование программного обеспечения/Тест-определения/Что такое чек-лист.md"
+    "English/Words/admire.md",
+    "English/Words/amber.md",
+    "English/Words/certainly.md",
+    "English/Words/comprehensive.md",
+    "English/Words/consequences.md",
+    "English/Words/disease.md",
+    "English/Words/divorce.md",
+    "English/Words/efficient.md",
+    "English/Words/employment.md",
+    "English/Words/flavor.md"
   ]
 }
