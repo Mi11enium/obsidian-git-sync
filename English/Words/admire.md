@@ -1,6 +1,6 @@
 #flashcards
-admIre
-admIre -- восхищаться
+admire
+admire -- восхищаться
 <!--SR:!2023-02-23,3,250-->
 i admire her
 

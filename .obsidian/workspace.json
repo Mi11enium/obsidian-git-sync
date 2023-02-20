@@ -289,7 +289,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Words/actually.md",
+                "file": "Тело/Парфюм.md",
                 "mode": "source",
                 "source": false
               }
@@ -377,7 +377,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Words/actually.md",
+                "file": "Тело/Парфюм.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -413,7 +413,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Words/actually.md"
+                "file": "Тело/Парфюм.md"
               }
             }
           }
@@ -434,20 +434,21 @@
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
       "random-note:Open random note": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-youglish-plugin:Youglish Plugin": false
     }
   },
   "active": "4c9f89541edb8c00",
   "lastOpenFiles": [
     "English/Words/admire.md",
+    "English/Words/comprehensive.md",
+    "English/Words/actually.md",
     "English/Words/amber.md",
     "English/Words/certainly.md",
-    "English/Words/comprehensive.md",
     "English/Words/consequences.md",
     "English/Words/disease.md",
     "English/Words/divorce.md",
     "English/Words/efficient.md",
-    "English/Words/employment.md",
-    "English/Words/flavor.md"
+    "English/Words/employment.md"
   ]
 }
