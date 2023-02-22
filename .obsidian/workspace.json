@@ -289,7 +289,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тело/Парфюм.md",
+                "file": "Тело/Уход за кожей лица.md",
                 "mode": "source",
                 "source": false
               }
@@ -377,7 +377,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тело/Парфюм.md",
+                "file": "Тело/Уход за кожей лица.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -413,7 +413,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тело/Парфюм.md"
+                "file": "Тело/Уход за кожей лица.md"
               }
             }
           }
@@ -440,10 +440,10 @@
   },
   "active": "4c9f89541edb8c00",
   "lastOpenFiles": [
+    "Тело/Парфюм.md",
     "Тело/Упражнения.md",
     "Тело/Уход за кожей лица.md",
     "Тело/invictus.md",
-    "Тело/Парфюм.md",
     "English/Words/admire.md",
     "English/Words/comprehensive.md",
     "English/Words/actually.md",
