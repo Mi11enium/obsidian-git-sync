@@ -289,7 +289,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бизнес/Свое дело/Исследование рынка.md",
+                "file": "Программирование/Компьютерные сети/Модели/OSI Модель.md",
                 "mode": "source",
                 "source": false
               }
@@ -377,7 +377,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Бизнес/Свое дело/Исследование рынка.md",
+                "file": "Программирование/Компьютерные сети/Модели/OSI Модель.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -413,7 +413,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бизнес/Свое дело/Исследование рынка.md"
+                "file": "Программирование/Компьютерные сети/Модели/OSI Модель.md"
               }
             }
           }
@@ -440,15 +440,15 @@
   },
   "active": "4c9f89541edb8c00",
   "lastOpenFiles": [
+    "V5GzaL9IkiA.jpg",
+    "Программирование/Компьютерные сети/Модели/OSI Модель.md",
+    "Бизнес/Свое дело/Исследование рынка.md",
     "Бизнес/Свое дело/Определение целевой аудитории.md",
     "Тело/Уход за кожей лица.md",
     "Тело/Парфюм.md",
     "Тело/Упражнения.md",
     "Тело/invictus.md",
     "English/Words/admire.md",
-    "English/Words/comprehensive.md",
-    "English/Words/actually.md",
-    "English/Words/amber.md",
-    "English/Words/certainly.md"
+    "English/Words/comprehensive.md"
   ]
 }
