@@ -289,7 +289,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Тело/Уход за кожей лица.md",
+                "file": "Бизнес/Свое дело/Исследование рынка.md",
                 "mode": "source",
                 "source": false
               }
@@ -377,7 +377,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тело/Уход за кожей лица.md",
+                "file": "Бизнес/Свое дело/Исследование рынка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -413,7 +413,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тело/Уход за кожей лица.md"
+                "file": "Бизнес/Свое дело/Исследование рынка.md"
               }
             }
           }
@@ -440,15 +440,15 @@
   },
   "active": "4c9f89541edb8c00",
   "lastOpenFiles": [
+    "Бизнес/Свое дело/Определение целевой аудитории.md",
+    "Тело/Уход за кожей лица.md",
     "Тело/Парфюм.md",
     "Тело/Упражнения.md",
-    "Тело/Уход за кожей лица.md",
     "Тело/invictus.md",
     "English/Words/admire.md",
     "English/Words/comprehensive.md",
     "English/Words/actually.md",
     "English/Words/amber.md",
-    "English/Words/certainly.md",
-    "English/Words/consequences.md"
+    "English/Words/certainly.md"
   ]
 }

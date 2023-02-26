@@ -1,7 +1,7 @@
 #flashcards
 disEase
 disease -- болезнь
-<!--SR:!2023-02-23,3,250-->
+<!--SR:!2023-03-10,12,250-->
 i know origins of disease
 
 

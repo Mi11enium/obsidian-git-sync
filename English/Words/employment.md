@@ -1,7 +1,7 @@
 #flashcards
 EmplOyment
 Employment -- занятость
-<!--SR:!2023-02-21,1,230-->
+<!--SR:!2023-03-06,8,230-->
 
 ![[Pasted image 20230125133126.png]]
 
