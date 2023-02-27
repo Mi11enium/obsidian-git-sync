@@ -229,7 +229,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Как учить слова.md",
+                "file": "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md",
                 "mode": "source",
                 "source": false
               }
@@ -237,6 +237,24 @@
           }
         ],
         "currentTab": 18
+      },
+      {
+        "id": "fe0734c02c0a4bfd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca1727b342c2ad77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Тестирование программного обеспечения/Тестирование/Этапы жизненного цикла ПО.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       },
       {
         "id": "c018aa08b1decada",
@@ -277,7 +295,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "youtub",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -317,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Как учить слова.md",
+                "file": "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -353,7 +371,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Как учить слова.md"
+                "file": "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md"
               }
             }
           }
@@ -380,11 +398,17 @@
   },
   "active": "75a2cc085d8cc3cc",
   "lastOpenFiles": [
+    "Тестирование программного обеспечения/Тестирование/Этапы жизненного цикла ПО.md",
+    "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md",
+    "Тестирование программного обеспечения/Тестирование/Жизненный цикл ПО.md",
+    "English/Words/amber.md",
+    "English/Words/admire.md",
+    "English/Words/actually.md",
+    "English/Как учить слова.md",
     "Picture/V5GzaL9IkiA.jpg",
     "Книги/Человек убежденный/17. Практичные «люди действия».md",
     "Тестирование программного обеспечения/Виды тестирования ПО/Тестирование безопасности.md",
     "Разное/Все подряд.md",
-    "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md",
     "Календарь/Съездить к маму.md",
     "Программирование/Компьютерные сети/Модели/OSI Модель.md",
     "Бизнес/Свое дело/Исследование рынка.md",
@@ -393,7 +417,6 @@
     "Тело/Парфюм.md",
     "Тело/Упражнения.md",
     "Тело/invictus.md",
-    "English/Words/admire.md",
     "English/Words/comprehensive.md"
   ]
 }
