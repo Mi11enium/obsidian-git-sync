@@ -234,69 +234,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7456fa1bb3c9b244",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Тестирование программного обеспечения/Виды тестирования ПО/Тестирование безопасности.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "987fefbbda02f902",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Разное/Все подряд.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe6988ba7049e735",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8dfa2c2174cd6cd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Календарь/Съездить к маму.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4c9f89541edb8c00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Программирование/Компьютерные сети/Модели/OSI Модель.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 23
+        "currentTab": 18
       },
       {
         "id": "c018aa08b1decada",
@@ -377,7 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/Компьютерные сети/Модели/OSI Модель.md",
+                "file": "Книги/Человек убежденный/17. Практичные «люди действия».md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -413,7 +353,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/Компьютерные сети/Модели/OSI Модель.md"
+                "file": "Книги/Человек убежденный/17. Практичные «люди действия».md"
               }
             }
           }
@@ -438,10 +378,14 @@
       "obsidian-youglish-plugin:Youglish Plugin": false
     }
   },
-  "active": "4c9f89541edb8c00",
+  "active": "75a2cc085d8cc3cc",
   "lastOpenFiles": [
-    "V5GzaL9IkiA.jpg",
+    "Тестирование программного обеспечения/Виды тестирования ПО/Тестирование безопасности.md",
+    "Разное/Все подряд.md",
+    "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md",
+    "Календарь/Съездить к маму.md",
     "Программирование/Компьютерные сети/Модели/OSI Модель.md",
+    "V5GzaL9IkiA.jpg",
     "Бизнес/Свое дело/Исследование рынка.md",
     "Бизнес/Свое дело/Определение целевой аудитории.md",
     "Тело/Уход за кожей лица.md",
