@@ -2,7 +2,11 @@
   "settings": {
     "flashcardTags": [
       "#flashcards",
-      "#testing"
+      "#testing",
+      "#methodology",
+      "#definition",
+      "#bags",
+      "#global"
     ],
     "convertFoldersToDecks": false,
     "cardCommentOnSameLine": false,
