@@ -42,9 +42,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b7d8451936e3a2d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Words/demand.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "43f2a275a1b0eaf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/Words/supply.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "102968f7aa50d395",
@@ -125,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Тестирование программного обеспечения/Техники тест-дизайна/Классы эквивалентности.md",
+                "file": "English/Words/supply.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +185,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Тестирование программного обеспечения/Техники тест-дизайна/Классы эквивалентности.md"
+                "file": "English/Words/supply.md"
               }
             }
           }
@@ -186,17 +210,19 @@
       "obsidian-youglish-plugin:Youglish Plugin": false
     }
   },
-  "active": "10b0eb320e40234c",
+  "active": "43f2a275a1b0eaf6",
   "lastOpenFiles": [
+    "English/Words/demand.md",
+    "English/Words/supply.md",
+    "English/Words/consequences.md",
+    "Тестирование программного обеспечения/Техники тест-дизайна/Классы эквивалентности.md",
     "Тестирование программного обеспечения/Тест-определения/Что такое тест-план.md",
     "Тестирование программного обеспечения/Тест-определения/Этапы тестирования.md",
     "Тестирование программного обеспечения/Тест-определения/Что такое тест-дизайн.md",
-    "Тестирование программного обеспечения/Техники тест-дизайна/Классы эквивалентности.md",
     "English/Words/actually.md",
     "English/Words/certainly.md",
     "English/Words/admire.md",
     "English/Words/comprehensive.md",
-    "English/Words/consequences.md",
     "English/Words/disease.md",
     "English/Words/divorce.md",
     "English/Words/efficient.md",
@@ -212,8 +238,6 @@
     "English/Words/throw.md",
     "English/Как учить слова.md",
     "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md",
-    "Бизнес/Аналитика/Excel/Добавление числа к диапазону.md",
-    "Бизнес/Свое дело/Идея и исследование рынка.md",
     "Бизнес/Аналитика/Excel",
     "chrome_xnbT0m6y0X.mp4",
     "Личный бренд/Голос",
