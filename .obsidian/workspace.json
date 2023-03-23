@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Testing words/Equivalence partitioning.md",
+                "file": "Тестирование программного обеспечения/Общие понятия/QA QC ST.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English/Testing words/Equivalence partitioning.md",
+                "file": "Тестирование программного обеспечения/Общие понятия/QA QC ST.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English/Testing words/Equivalence partitioning.md"
+                "file": "Тестирование программного обеспечения/Общие понятия/QA QC ST.md"
               }
             }
           }
@@ -224,8 +224,8 @@
   },
   "active": "57ac67cd28bfb13a",
   "lastOpenFiles": [
-    "Тестирование программного обеспечения/Техники тест-дизайна/Классы эквивалентности.md",
     "English/Testing words/Equivalence partitioning.md",
+    "Тестирование программного обеспечения/Техники тест-дизайна/Классы эквивалентности.md",
     "English/Testing words",
     "Проекты/Youtube Tabulatu Cover/Видео.md",
     "Тестирование программного обеспечения/Тест-определения/Что такое тест-план.md",
