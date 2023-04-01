@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/1C/Синтаксис.md",
+                "file": "Программирование/Понятия/XML.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/1C/Синтаксис.md",
+                "file": "Программирование/Понятия/XML.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/1C/Синтаксис.md"
+                "file": "Программирование/Понятия/XML.md"
               }
             }
           }
@@ -236,8 +236,9 @@
   },
   "active": "b5880a50f92e0341",
   "lastOpenFiles": [
-    "Тестирование программного обеспечения/Общие понятия/QA QC ST.md",
+    "Программирование/Тестирование/itempuniversity.com/1 Урок.md",
     "Программирование/1C/Синтаксис.md",
+    "Тестирование программного обеспечения/Общие понятия/QA QC ST.md",
     "Программирование/1C",
     "English/Testing words/Equivalence partitioning.md",
     "Тестирование программного обеспечения/Техники тест-дизайна/Классы эквивалентности.md",
@@ -263,7 +264,6 @@
     "English/Words/modernity.md",
     "English/Words/proud.md",
     "English/Words/rapid.md",
-    "English/Words/suitable.md",
     "Бизнес/Аналитика/Excel",
     "chrome_xnbT0m6y0X.mp4",
     "Личный бренд/Голос",
