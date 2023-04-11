@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c86027ed27215d75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/1C/Youtube - уроки.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "102968f7aa50d395",
@@ -173,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/1C/Синтаксис.md",
+                "file": "Программирование/1C/Youtube - уроки.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/1C/Синтаксис.md"
+                "file": "Программирование/1C/Youtube - уроки.md"
               }
             }
           }
@@ -234,8 +246,10 @@
       "obsidian-youglish-plugin:Youglish Plugin": false
     }
   },
-  "active": "b5880a50f92e0341",
+  "active": "c86027ed27215d75",
   "lastOpenFiles": [
+    "Программирование/1C/Синтаксис.md",
+    "Программирование/1C/Youtube - уроки.md",
     "Pasted image 20230404232528.png",
     "Pasted image 20230404232239.png",
     "Pasted image 20230404232212.png",
@@ -243,7 +257,6 @@
     "English/Math/Quadrilaterals.md",
     "English/Как учить грамматику.md",
     "English/Как учить слова.md",
-    "Программирование/1C/Синтаксис.md",
     "Программирование/Понятия/XML.md",
     "Программирование/Тестирование/itempuniversity.com/1 Урок.md",
     "Тестирование программного обеспечения/Общие понятия/QA QC ST.md",
