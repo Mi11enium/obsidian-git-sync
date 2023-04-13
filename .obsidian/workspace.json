@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/1C/Синтаксис.md",
+                "file": "Программирование/Тестирование/itempuniversity.com/1 Урок.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "13bd2cd6d23ee0ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Программирование/Тестирование/Вебинары записи/1. Вебинар.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       },
       {
         "id": "102968f7aa50d395",
@@ -185,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Программирование/1C/Синтаксис.md",
+                "file": "Программирование/Тестирование/Вебинары записи/1. Вебинар.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Программирование/1C/Синтаксис.md"
+                "file": "Программирование/Тестирование/Вебинары записи/1. Вебинар.md"
               }
             }
           }
@@ -246,8 +258,12 @@
       "obsidian-youglish-plugin:Youglish Plugin": false
     }
   },
-  "active": "c86027ed27215d75",
+  "active": "13bd2cd6d23ee0ff",
   "lastOpenFiles": [
+    "Программирование/Тестирование/itempuniversity.com/1 Урок.md",
+    "Программирование/Тестирование/Вебинары записи/1. Вебинар.md",
+    "Программирование/Тестирование/Вебинары записи",
+    "Программирование/1C/Синтаксис.md",
     "Personal Knowledge Managment/THE BEST Study Technique.md",
     "Personal Knowledge Managment/Как освоить любую программу.md",
     "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
@@ -256,7 +272,6 @@
     "Pasted image 20230412221943.png",
     "Pasted image 20230412220747.png",
     "Pasted image 20230412220331.png",
-    "Программирование/1C/Синтаксис.md",
     "Pasted image 20230404232528.png",
     "Pasted image 20230404232239.png",
     "Pasted image 20230404232212.png",
@@ -265,7 +280,6 @@
     "English/Как учить грамматику.md",
     "English/Как учить слова.md",
     "Программирование/Понятия/XML.md",
-    "Программирование/Тестирование/itempuniversity.com/1 Урок.md",
     "Тестирование программного обеспечения/Общие понятия/QA QC ST.md",
     "Программирование/1C",
     "English/Testing words/Equivalence partitioning.md",
@@ -283,7 +297,6 @@
     "English/Words/certainly.md",
     "English/Words/admire.md",
     "English/Words/comprehensive.md",
-    "English/Words/disease.md",
     "Бизнес/Аналитика/Excel",
     "chrome_xnbT0m6y0X.mp4",
     "Личный бренд/Голос",
