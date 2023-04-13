@@ -1,6 +1,10 @@
 [[Inquiry-based learning]] +++
 Structure semantic associative priming +++
+// Деление нагрузки на физическую, ментальную и эмоциональную
 Cognitive load optimisation +++
+
+Рекомендации:
+
 Whole part whole +++
 Kolb learning cycle +++
 Teaching +++
