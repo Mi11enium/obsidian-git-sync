@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Таблица принятия решений.md",
+                "file": "Парное тестирование.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Таблица принятия решений.md",
+                "file": "Парное тестирование.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Таблица принятия решений.md"
+                "file": "Парное тестирование.md"
               }
             }
           }
@@ -149,11 +149,15 @@
   },
   "active": "6d651c9341d31eb8",
   "lastOpenFiles": [
+    "Pasted image 20230502202705.png",
+    "Pasted image 20230502202516.png",
+    "Таблица принятия решений.md",
+    "Pasted image 20230502201815.png",
+    "Pasted image 20230502201653.png",
     "Pasted image 20230502195744.png",
     "Тестирование программного обеспечения/Виды тестирования ПО/Виды тестирования ПО.md",
     "Личный бренд/Тело/invictus.md",
     "Тестирование программного обеспечения/Виды тестирования ПО/Тестирование серого ящика.md",
-    "Таблица принятия решений.md",
     "Сценарий использования.md",
     "Предугадывание ошибок.md",
     "Парное тестирование.md",
@@ -185,10 +189,6 @@
     "Pasted image 20230418230253.png",
     "Picture/Pasted image 20230413222156.png",
     "Программирование/Тестирование/Вебинары записи",
-    "Picture/Pasted image 20230412222340.png",
-    "Picture/Pasted image 20230412221943.png",
-    "Picture/Pasted image 20230412220747.png",
-    "Picture/Pasted image 20230412220331.png",
     "Программирование/1C",
     "English/Testing words",
     "Бизнес/Аналитика/Excel",
