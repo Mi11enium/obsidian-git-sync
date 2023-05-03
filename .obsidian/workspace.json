@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a38c6b5b2eefe0a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,6 +74,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "daed59595e3a1033",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
             }
           }
         ],
@@ -147,7 +166,7 @@
       "obsidian-youglish-plugin:Youglish Plugin": false
     }
   },
-  "active": "6d651c9341d31eb8",
+  "active": "8a38c6b5b2eefe0a",
   "lastOpenFiles": [
     "Pasted image 20230502210256.png",
     "Тестирование программного обеспечения/Техники тест-дизайна/Парное тестирование.md",
