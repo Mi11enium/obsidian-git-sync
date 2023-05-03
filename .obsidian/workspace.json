@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8a38c6b5b2eefe0a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.7"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +155,7 @@
       "obsidian-youglish-plugin:Youglish Plugin": false
     }
   },
-  "active": "8a38c6b5b2eefe0a",
+  "active": "6d651c9341d31eb8",
   "lastOpenFiles": [
     "Pasted image 20230502210256.png",
     "Тестирование программного обеспечения/Техники тест-дизайна/Парное тестирование.md",
