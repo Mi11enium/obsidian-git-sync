@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e1ca48a076709753",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "1d0260df44c86343",
@@ -169,7 +180,7 @@
       "obsidian-youglish-plugin:Youglish Plugin": false
     }
   },
-  "active": "6d651c9341d31eb8",
+  "active": "e1ca48a076709753",
   "lastOpenFiles": [
     "Программирование/Проектирование/Учебный материал.md",
     "Программирование/Проектирование/Термины.md",
