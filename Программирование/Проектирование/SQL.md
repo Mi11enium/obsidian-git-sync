@@ -31,7 +31,21 @@ SELECT <mark style="background: #FFB86CA6;">Price * Amount AS Total FROM</mark> 
 ИЛИ Как представление вычесления с функцией
 
 SELECT IIF(Amount<200, Round(Price\*0.5, 2), Round(Price\*0.8, 2)) AS Sale FROM Books
+## Добавление значения (INSERT INTO)
 
+Добавлять данные (значения) в таблицу мы можем только если мы знаем её структуру и порядок атрибутов.
+Если атрибут внешний, то мы должны знать ID этого атрибута.
+
+Шаблон добавления:
+<mark style="background: #FFB86CA6;">INSERT INTO</mark> Table_name
+<mark style="background: #FFB86CA6;">VALUES</mark> (empty_value, col2_value...),
+    (empty1_value, col2_value...);
+
+ИЛИ
+
+<mark style="background: #FFB86CA6;">INSERT INTO</mark> Table_name (atr_name, atr_name2)
+<mark style="background: #FFB86CA6;">VALUES</mark> (value_atr_name, value_atr_name2...),
+    (empty1_value, col2_value...);
 ## Фильтр (WHERE)
 SELECT Author, Book, Publisher, Amount, Price
 FROM Books
@@ -73,19 +87,5 @@ SELECT Author, Book, Publisher, Amount, Price
 FROM Books
 <mark style="background: #FFB86CA6;">WHERE</mark> Book <mark style="background: #FFB86CA6;">LIKE("__с%")</mark> ; // \_ - один любой символ
 # Работа с таблицами
-## Добавление значения (INSERT INTO)
 
-Добавлять данные (значения) в таблицу мы можем только если мы знаем её структуру и порядок атрибутов.
-Если атрибут внешний, то мы должны знать ID этого атрибута.
-
-Шаблон добавления:
-<mark style="background: #FFB86CA6;">INSERT INTO</mark> Table_name
-<mark style="background: #FFB86CA6;">VALUES</mark> (empty_value, col2_value...),
-    (empty1_value, col2_value...);
-
-ИЛИ
-
-<mark style="background: #FFB86CA6;">INSERT INTO</mark> Table_name (atr_name, atr_name2)
-<mark style="background: #FFB86CA6;">VALUES</mark> (value_atr_name, value_atr_name2...),
-    (empty1_value, col2_value...);
 
