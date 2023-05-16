@@ -46,6 +46,16 @@ SELECT IIF(Amount<200, Round(Price\*0.5, 2), Round(Price\*0.8, 2)) AS Sale FROM 
 <mark style="background: #FFB86CA6;">INSERT INTO</mark> Table_name (atr_name, atr_name2)
 <mark style="background: #FFB86CA6;">VALUES</mark> (value_atr_name, value_atr_name2...),
     (empty1_value, col2_value...);
+
+## Обновление значения (UPDATE)
+~~~
+UPDATE имя_таблицы
+SET столбец1 = новое_значение1, столбец2 = новое_значение2, ..., столбецN = новое_значениеN
+WHERE условие;
+~~~
+
+
+
 ## Фильтр (WHERE)
 SELECT Author, Book, Publisher, Amount, Price
 FROM Books
