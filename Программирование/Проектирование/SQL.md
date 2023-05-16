@@ -48,13 +48,14 @@ SELECT IIF(Amount<200, Round(Price\*0.5, 2), Round(Price\*0.8, 2)) AS Sale FROM 
     (empty1_value, col2_value...);
 
 ## Обновление значения (UPDATE)
-~~~
-UPDATE имя_таблицы
-SET столбец1 = новое_значение1, столбец2 = новое_значение2, ..., столбецN = новое_значениеN
-WHERE условие;
-~~~
 
+<mark style="background: #FFB86CA6;">UPDATE</mark> имя_таблицы
+<mark style="background: #FFB86CA6;">SET</mark> столбец1 = новое_значение1, столбец2 = новое_значение2, ..., столбецN = новое_значениеN
+<mark style="background: #FFB86CA6;">WHERE</mark> условие;
 
+## Удаление значения (UPDATE)
+<mark style="background: #FFB86CA6;">DELETE FROM</mark> table_name
+<mark style="background: #FFB86CA6;">WHERE</mark> ID = 4;
 
 ## Фильтр (WHERE)
 SELECT Author, Book, Publisher, Amount, Price
