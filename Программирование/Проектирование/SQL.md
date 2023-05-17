@@ -61,26 +61,38 @@ SELECT IIF(Amount<200, Round(Price\*0.5, 2), Round(Price\*0.8, 2)) AS Sale FROM 
 <mark style="background: #FFB86CA6;">SET</mark> столбец1 = новое_значение1, столбец2 = новое_значение2, ..., столбецN = новое_значениеN
 <mark style="background: #FFB86CA6;">WHERE</mark> условие;
 
-## Удаление значения (UPDATE)
+## Удаление значения (DELETE)
 <mark style="background: #FFB86CA6;">DELETE FROM</mark> table_name
 <mark style="background: #FFB86CA6;">WHERE</mark> ID = 4;
 
 ## Фильтр (WHERE)
 SELECT Author, Book, Publisher, Amount, Price
 FROM Books
-WHERE Amount < 40 AND PRICE > 100;
+<mark style="background: #FFB86CA6;">WHERE</mark> Amount < 40 <mark style="background: #FFB86CA6;">AND</mark> PRICE > 100;
 
+### IS NULL, BETWEEN, IN, \[NOT\] LIKE
 ИЛИ с диапазоном (между)
 
 SELECT Author, Book, Publisher, Amount, Price
 FROM Books
-WHERE Amount BETWEEN 1 AND 40;
+<mark style="background: #FFB86CA6;">WHERE</mark> Amount <mark style="background: #FFB86CA6;">BETWEEN</mark> 1 AND 40;
 
 ИЛИ по индексу (содержит)
 
 SELECT Author, Book, Publisher, Amount, Price
 FROM Books
-WHERE Price IN(40, 113, 450)
+<mark style="background: #FFB86CA6;">WHERE</mark> Price <mark style="background: #FFB86CA6;">IN(40, 113, 450)</mark> 
+
+Или по пустым ячейкам (NULL)
+SELECT Author, Book, Publisher, Amount, Price
+FROM Books
+<mark style="background: #FFB86CA6;">WHERE</mark> Price <mark style="background: #FFB86CA6;">IS NULL</mark> 
+
+ИЛИ соответствует шаблону
+
+SELECT Author, Book, Publisher, Amount, Price
+FROM Books
+<mark style="background: #FFB86CA6;">WHERE</mark> Price LIKE \'%@mail.ru' 
 
 ## Сортировка (ORDER BY)
 SELECT Author, Book, Publisher, Amount, Price
