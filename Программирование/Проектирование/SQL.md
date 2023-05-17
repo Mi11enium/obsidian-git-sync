@@ -38,7 +38,62 @@ SELECT <mark style="background: #FFB86CA6;">Price * Amount AS Total FROM</mark> 
 
 ИЛИ Как представление вычесления с функцией
 
-SELECT IIF(Amount<200, Round(Price\*0.5, 2), Round(Price\*0.8, 2)) AS Sale FROM Books
+SELECT <mark style="background: #FFB86CA6;">IIF</mark> (Amount<200, Round(Price\*0.5, 2), Round(Price\*0.8, 2)) AS Sale FROM Books
+
+## Фильтр (WHERE)
+SELECT Author, Book, Publisher, Amount, Price
+FROM Books
+<mark style="background: #FFB86CA6;">WHERE</mark> Amount < 40 <mark style="background: #FFB86CA6;">AND</mark> PRICE > 100;
+
+SELECT Author, Book, Publisher, Amount, Price
+FROM Books
+<mark style="background: #FFB86CA6;">WHERE</mark> Amount < 40 <mark style="background: #FFB86CA6;">OR</mark> PRICE > 100;
+
+### IS NULL, BETWEEN, IN, \[NOT\] LIKE, ESCAPE
+ИЛИ с диапазоном (между)
+
+SELECT Author, Book, Publisher, Amount, Price
+FROM Books
+<mark style="background: #FFB86CA6;">WHERE</mark> Amount <mark style="background: #FFB86CA6;">BETWEEN</mark> 1 AND 40;
+
+ИЛИ по индексу (содержит)
+
+SELECT Author, Book, Publisher, Amount, Price
+FROM Books
+<mark style="background: #FFB86CA6;">WHERE</mark> Price <mark style="background: #FFB86CA6;">IN(40, 113, 450)</mark> 
+
+Или по пустым ячейкам (NULL)
+SELECT Author, Book, Publisher, Amount, Price
+FROM Books
+<mark style="background: #FFB86CA6;">WHERE</mark> Price <mark style="background: #FFB86CA6;">IS NULL</mark> 
+
+ИЛИ соответствует шаблону (LIKE)
+
+SELECT Author, Book, Publisher, Amount, Price
+FROM Books
+<mark style="background: #FFB86CA6;">WHERE</mark> Price <mark style="background: #FFB86CA6;">LIKE</mark> '\%@mail.ru';
+
+ИЛИ содержит экранирующий символ (ESCAPE)
+
+SELECT Author, Book, Publisher, Amount, Price
+FROM Books
+<mark style="background: #FFB86CA6;">WHERE</mark> Price LIKE '5<mark style="background: #FFB86CA6;">!</mark> %'' <mark style="background: #FFB86CA6;">ESCAPE '!'</mark> ;
+
+## Сортировка (ORDER BY)
+SELECT Author, Book, Publisher, Amount, Price
+FROM Books
+WHERE Price IN(1, 115, 450)
+<mark style="background: #FFB86CA6;">ORDER BY</mark> Amount;
+
+Или по убыванию
+
+SELECT Author, Book, Publisher, Amount, Price
+FROM Books
+WHERE Price IN(1, 115, 450)
+<mark style="background: #FFB86CA6;">ORDER BY</mark> Amount <mark style="background: #FFB86CA6;">DESC</mark> ;
+
+
+
 ## Добавление значения (INSERT INTO)
 
 Добавлять данные (значения) в таблицу мы можем только если мы знаем её структуру и порядок атрибутов.
@@ -64,59 +119,3 @@ SELECT IIF(Amount<200, Round(Price\*0.5, 2), Round(Price\*0.8, 2)) AS Sale FROM 
 ## Удаление значения (DELETE)
 <mark style="background: #FFB86CA6;">DELETE FROM</mark> table_name
 <mark style="background: #FFB86CA6;">WHERE</mark> ID = 4;
-
-## Фильтр (WHERE)
-SELECT Author, Book, Publisher, Amount, Price
-FROM Books
-<mark style="background: #FFB86CA6;">WHERE</mark> Amount < 40 <mark style="background: #FFB86CA6;">AND</mark> PRICE > 100;
-
-### IS NULL, BETWEEN, IN, \[NOT\] LIKE
-ИЛИ с диапазоном (между)
-
-SELECT Author, Book, Publisher, Amount, Price
-FROM Books
-<mark style="background: #FFB86CA6;">WHERE</mark> Amount <mark style="background: #FFB86CA6;">BETWEEN</mark> 1 AND 40;
-
-ИЛИ по индексу (содержит)
-
-SELECT Author, Book, Publisher, Amount, Price
-FROM Books
-<mark style="background: #FFB86CA6;">WHERE</mark> Price <mark style="background: #FFB86CA6;">IN(40, 113, 450)</mark> 
-
-Или по пустым ячейкам (NULL)
-SELECT Author, Book, Publisher, Amount, Price
-FROM Books
-<mark style="background: #FFB86CA6;">WHERE</mark> Price <mark style="background: #FFB86CA6;">IS NULL</mark> 
-
-ИЛИ соответствует шаблону
-
-SELECT Author, Book, Publisher, Amount, Price
-FROM Books
-<mark style="background: #FFB86CA6;">WHERE</mark> Price LIKE \'%@mail.ru' 
-
-## Сортировка (ORDER BY)
-SELECT Author, Book, Publisher, Amount, Price
-FROM Books
-WHERE Price IN(1, 115, 450)
-<mark style="background: #FFB86CA6;">ORDER BY</mark> Amount;
-
-Или по убыванию
-
-SELECT Author, Book, Publisher, Amount, Price
-FROM Books
-WHERE Price IN(1, 115, 450)
-<mark style="background: #FFB86CA6;">ORDER BY</mark> Amount <mark style="background: #FFB86CA6;">DESC</mark> ;
-
-## Представление по шаблону (LIKE)
-SELECT Author, Book, Publisher, Amount, Price
-FROM Books
-<mark style="background: #FFB86CA6;">WHERE</mark> Book <mark style="background: #FFB86CA6;">LIKE ("%и")</mark> ; // процент - это метасимвол от 0 до бесконечности
-
-ИЛИ
-
-SELECT Author, Book, Publisher, Amount, Price
-FROM Books
-<mark style="background: #FFB86CA6;">WHERE</mark> Book <mark style="background: #FFB86CA6;">LIKE("__с%")</mark> ; // \_ - один любой символ
-# Работа с таблицами
-
-
