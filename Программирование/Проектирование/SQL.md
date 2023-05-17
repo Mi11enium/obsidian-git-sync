@@ -2,6 +2,14 @@ SQL — язык структурированных запросов (SQL, Struc
 
 Если в запросе нет FROM, то после ключевого слов (INSERT INTO) идет название таблицы и в скобках название столбц(а, ов).
 
+# Последовательность команд в запросе
+SELECT
+FROM
+WHERE
+GROUP BY
+HAVING
+ORDER BY
+
 # Типы данных атрибутов
 <mark style="background: #FFB86CA6;">DESCRIBE</mark> table_name;
 
