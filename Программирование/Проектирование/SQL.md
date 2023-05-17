@@ -92,6 +92,20 @@ FROM Books
 WHERE Price IN(1, 115, 450)
 <mark style="background: #FFB86CA6;">ORDER BY</mark> Amount <mark style="background: #FFB86CA6;">DESC</mark> ;
 
+## Группировка (GROUP BY)
+
+SELECT home_type
+FROM Rooms
+<mark style="background: #FFB86CA6;">GROUP BY</mark> home_type
+
+При использовании GROUP BY мы можем выводить только:
+1. литералы
+2. результаты агрегатных функций
+3. поля группировки
+
+
+
+Следует иметь в виду, что для GROUP BY все значения NULL трактуются как равные, т.е. при группировке по полю, содержащему NULL-значения, все такие строки попадут в одну группу
 
 
 ## Добавление значения (INSERT INTO)
