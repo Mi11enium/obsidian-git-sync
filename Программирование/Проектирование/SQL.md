@@ -79,19 +79,6 @@ SELECT Author, Book, Publisher, Amount, Price
 FROM Books
 <mark style="background: #FFB86CA6;">WHERE</mark> Price LIKE '5<mark style="background: #FFB86CA6;">!</mark> %'' <mark style="background: #FFB86CA6;">ESCAPE '!'</mark> ;
 
-## Сортировка (ORDER BY)
-SELECT Author, Book, Publisher, Amount, Price
-FROM Books
-WHERE Price IN(1, 115, 450)
-<mark style="background: #FFB86CA6;">ORDER BY</mark> Amount;
-
-Или по убыванию
-
-SELECT Author, Book, Publisher, Amount, Price
-FROM Books
-WHERE Price IN(1, 115, 450)
-<mark style="background: #FFB86CA6;">ORDER BY</mark> Amount <mark style="background: #FFB86CA6;">DESC</mark> ;
-
 ## Группировка (GROUP BY)
 
 SELECT home_type
@@ -103,7 +90,8 @@ FROM Rooms
 2. результаты агрегатных функций
 3. поля группировки
 Следует иметь в виду, что для GROUP BY все значения NULL трактуются как равные, т.е. при группировке по полю, содержащему NULL-значения, все такие строки попадут в одну группу
-# Агрегатные функции
+
+## Агрегатные функции
 Агрегатная функция – это функция, которая выполняет вычисление на наборе значений и возвращает одиночное значение.
 
 SELECT \[литералы, <mark style="background: #FFB86CA6;">агрегатные_функции</mark> , поля_группировки]
@@ -119,6 +107,35 @@ GROUP BY поля_группировки;
 | MAX(table_name)   | Возвращает максимальное значение |
 
 Агрегатные функции применяются для значений, не равных NULL. Исключением является функция COUNT(\*).
+
+## Фильтрация сгрупированных данных (HAVING)
+SELECT home_type
+FROM Rooms
+<mark style="background: #FFB86CA6;">GROUP BY</mark> home_type
+<mark style="background: #FFB86CA6;">HAVING</mark> cost < 10000;
+
+Порядок выполнения операций, при использовании HAVING
+SELECT [константы, агрегатные_функции, поля_группировки] // 5
+FROM имя_таблицы // 1
+WHERE условия_на_ограничения_строк // 2
+GROUP BY поля_группировки // 3
+HAVING условие_на_ограничение_строк_после_группировки // 4
+ORDER BY условие_сортировки // 6
+
+## Сортировка (ORDER BY)
+SELECT Author, Book, Publisher, Amount, Price
+FROM Books
+WHERE Price IN(1, 115, 450)
+<mark style="background: #FFB86CA6;">ORDER BY</mark> Amount;
+
+Или по убыванию
+
+SELECT Author, Book, Publisher, Amount, Price
+FROM Books
+WHERE Price IN(1, 115, 450)
+<mark style="background: #FFB86CA6;">ORDER BY</mark> Amount <mark style="background: #FFB86CA6;">DESC</mark> ;
+
+
 
 
 
