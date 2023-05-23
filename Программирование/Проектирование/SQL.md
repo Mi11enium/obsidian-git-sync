@@ -137,6 +137,10 @@ FROM Books
 WHERE Price IN(1, 115, 450)
 <mark style="background: #FFB86CA6;">ORDER BY</mark> Amount <mark style="background: #FFB86CA6;">DESC</mark> ;
 
+## Ограничение (LIMIT)
+SELECT name
+FROM books
+<mark style="background: #FFB86CA6;">LIMIT 2, 3</mark> // от какой строки, сколько строк.
 
 
 
