@@ -182,3 +182,7 @@ FROM
 <mark style="background: #FFB86CA6;">GROUP BY</mark> name
 <mark style="background: #FFB86CA6;">HAVING COUNT(*) > 0</mark> ;
 
+## Вывод самого длинного имени
+SELECT name 
+FROM passenger 
+<mark style="background: #FFB86CA6;">WHERE LENGTH(name) = (SELECT MAX(LENGTH(name)) FROM passenger);</mark> 
