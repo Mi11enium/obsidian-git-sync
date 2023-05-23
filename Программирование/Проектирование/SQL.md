@@ -168,3 +168,17 @@ WHERE Price IN(1, 115, 450)
 ## Удаление значения (DELETE)
 <mark style="background: #FFB86CA6;">DELETE FROM</mark> table_name
 <mark style="background: #FFB86CA6;">WHERE</mark> ID = 4;
+
+
+
+
+
+
+
+# Отдельные замечания:
+## Поиск строк с одинаковым значением(GROUP BY и HAVING)
+SELECT
+FROM
+<mark style="background: #FFB86CA6;">GROUP BY</mark> name
+<mark style="background: #FFB86CA6;">HAVING COUNT(*) > 0</mark> ;
+
