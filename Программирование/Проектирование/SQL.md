@@ -140,7 +140,7 @@ WHERE Price IN(1, 115, 450)
 ## Ограничение (LIMIT)
 SELECT name
 FROM books
-<mark style="background: #FFB86CA6;">LIMIT 2, 3</mark> // от какой строки, сколько строк.
+<mark style="background: #FFB86CA6;">LIMIT 2, 3</mark> // на какой строке встать, сколько строк после вывести, не включая ту, на которую встали?
 
 
 
