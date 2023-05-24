@@ -159,7 +159,12 @@ FROM FamilyMembers
 
 При использовании результата подзапроса с операторами сравнения, как в нашем примере, важно, чтобы подзапрос возвращал именно скалярное значение (1 строка и 1 колонка).
 
+Или для фильтрации из другой таблицы
 
+SELECT \*
+FROM Users
+<mark style="background: #FFB86CA6;">WHERE id</mark> = 
+(SELECT <mark style="background: #FFB86CA6;">Rooms.owner_id</mark> FROM Rooms <mark style="background: #FFB86CA6;">ORDER BY price DESC LIMIT 1</mark> );
 
 
 
