@@ -144,6 +144,21 @@ FROM books
 
 ## Подзапросы
 Подзапрос — это запрос, использующийся в другом SQL запросе. Подзапрос всегда заключён в круглые скобки и обычно выполняется перед основным запросом.
+### Подзапрос с одной строкой с одним столбцом (скалярный подзапрос)
+
+SELECT
+(<mark style="background: #FFB86CA6;">SELECT name FROM company LIMIT 1</mark> )
+AS company name;
+
+Или для фильтрации строк с помощью WHERE
+
+SELECT \*
+FROM FamilyMembers
+<mark style="background: #FFB86CA6;">WHERE</mark> birthday =
+(<mark style="background: #FFB86CA6;">SELECT MAX(birthday) FROM FamilyMembers</mark> );
+
+При использовании результата подзапроса с операторами сравнения, как в нашем примере, важно, чтобы подзапрос возвращал именно скалярное значение (1 строка и 1 колонка).
+
 
 
 
