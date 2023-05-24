@@ -205,7 +205,7 @@ FROM Users
 SELECT
 FROM
 <mark style="background: #FFB86CA6;">GROUP BY</mark> name
-<mark style="background: #FFB86CA6;">HAVING COUNT(*) > 0</mark> ;
+<mark style="background: #FFB86CA6;">HAVING COUNT(*) > 1</mark> ;
 
 ## Вывод самого длинного имени
 SELECT name 
