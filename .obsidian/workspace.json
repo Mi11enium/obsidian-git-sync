@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5675d0386172902e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,7 +167,7 @@
       "obsidian-youglish-plugin:Youglish Plugin": false
     }
   },
-  "active": "67aec1983041f585",
+  "active": "5675d0386172902e",
   "lastOpenFiles": [
     "Программирование/Тестирование/itempuniversity.com/1 Урок.md",
     "Программирование/Тестирование/Postman/Знакомство.md",
