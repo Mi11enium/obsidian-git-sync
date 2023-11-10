@@ -4,5 +4,13 @@
   "promptDelete": false,
   "legacyEditor": false,
   "livePreview": true,
-  "spellcheckLanguages": null
+  "spellcheckLanguages": null,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showIndentGuide": true,
+  "smartIndentList": true,
+  "useTab": true,
+  "showInlineTitle": true
 }

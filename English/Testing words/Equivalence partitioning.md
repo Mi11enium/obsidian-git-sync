@@ -1,0 +1,1 @@
+equIvalence partItioning (partishnin)
