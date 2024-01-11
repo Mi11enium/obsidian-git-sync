@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal Knowledge Managment/Изучение чего угодно.md",
+                "file": "Работа/Как грамотно составить резюме.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal Knowledge Managment/Изучение чего угодно.md",
+                "file": "Работа/Как грамотно составить резюме.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal Knowledge Managment/Изучение чего угодно.md"
+                "file": "Работа/Как грамотно составить резюме.md"
               }
             }
           }
@@ -171,11 +171,18 @@
   },
   "active": "5675d0386172902e",
   "lastOpenFiles": [
-    "Personal Knowledge Managment/1.md",
-    "Personal Knowledge Managment/Как освоить любую программу.md",
-    "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
+    "Разное/Все подряд.md",
+    "Работа/Как грамотно составить резюме.md",
+    "Программирование/Общие компетенции.md",
+    "Программирование/Git/YouTube.md",
+    "Программирование/1C/Синтаксис.md",
+    "Личный бренд/ChatGPT/Обучение.md",
+    "Исследовательское тестирование.md",
     "Personal Knowledge Managment/Фазы PKM.md",
+    "Personal Knowledge Managment/Как освоить любую программу.md",
     "Personal Knowledge Managment/Изучение чего угодно.md",
+    "Personal Knowledge Managment/1.md",
+    "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
     "Программирование/Тестирование/Postman/Знакомство.md",
     "Программирование/Тестирование/Вебинары записи/3. Вебинар.md",
     "Программирование/Тестирование/Вебинары записи/2. Вебинар.md",
@@ -185,19 +192,12 @@
     "Бизнес/Аналитика/YouTube/Практические формулы.md",
     "Программирование/Тестирование/itempuniversity.com/1 Урок.md",
     "Программирование/Тестирование/Postman",
-    "Программирование/Общие компетенции.md",
     "Программирование/Проектирование/SQL.md",
     "Программирование/Python/Stepik - Поколение python/2 Условный оператор/1. if else.md",
     "Программирование/Python/Stepik - Поколение python/3 Типы данных/1. float.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/7. Ревью.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/8. Вложенные циклы.md",
     "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/3. counter.md",
-    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/2. range().md",
-    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/1. while, for.md",
-    "Программирование/Python/Stepik - Поколение python/3 Типы данных/3. str() len() in.md",
-    "Программирование/Проектирование/Учебный материал.md",
-    "Программирование/Проектирование/Вебинары/Из вебинаров.md",
-    "Бизнес/Формулы.md",
     "Pasted image 20230516160742.png",
     "Pasted image 20230515223115.png",
     "Pasted image 20230515221624.png",
