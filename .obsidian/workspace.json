@@ -169,11 +169,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,9 +192,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67aec1983041f585",
+  "active": "4e93bb0848afd105",
   "lastOpenFiles": [
     "Календарь/Съездить к маму.md",
+    "Календарь/Weeking.md",
     "Битрикс/Настройка SEO данных в инфоблоке.md",
     "Календарь/Сходить в магазин за тушенкой и сыром с 7 00 до 15 00.md",
     "Битрикс/Контент-Менеджер/Компоненты/Компоненты.md",
@@ -219,7 +220,6 @@
     "English/Words/upon.md",
     "English/Words/throw.md",
     "English/Words/supply.md",
-    "English/Words/suitable.md",
     "Программирование/Тестирование/Postman",
     "Pasted image 20230516160742.png",
     "Pasted image 20230515223115.png",
