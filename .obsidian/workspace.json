@@ -11,32 +11,23 @@
             "id": "67aec1983041f585",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Программирование/Тестирование/Postman/Знакомство.md",
-                "mode": "source",
-                "source": false
+                "file": "Календарь/Weeking.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    null,
+                    null,
+                    false
+                  ]
+                }
               },
-              "icon": "lucide-file",
-              "title": "Знакомство"
-            }
-          },
-          {
-            "id": "5675d0386172902e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Работа/Как грамотно составить резюме.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Как грамотно составить резюме"
+              "icon": "lucide-trello",
+              "title": "Weeking"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Работа/Как грамотно составить резюме.md",
+                "file": "Календарь/Weeking.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +120,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Как грамотно составить резюме"
-            }
-          },
-          {
-            "id": "f247509e1e47133c",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Backlinks for Weeking"
             }
           },
           {
@@ -161,14 +142,34 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Работа/Как грамотно составить резюме.md"
+                "file": "Календарь/Weeking.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Как грамотно составить резюме"
+              "title": "Outline of Weeking"
+            }
+          },
+          {
+            "id": "4f75e5b893c37cff",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
+            }
+          },
+          {
+            "id": "f70692a13b7ce3f2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -183,38 +184,43 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false
+      "random-note:Open random note": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-youglish-plugin:Youglish Plugin": false,
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5675d0386172902e",
+  "active": "67aec1983041f585",
   "lastOpenFiles": [
-    "Разное/Все подряд.md",
-    "Работа/Как грамотно составить резюме.md",
-    "Программирование/Общие компетенции.md",
-    "Программирование/Git/YouTube.md",
-    "Программирование/1C/Синтаксис.md",
-    "Личный бренд/ChatGPT/Обучение.md",
-    "Исследовательское тестирование.md",
-    "Personal Knowledge Managment/Фазы PKM.md",
-    "Personal Knowledge Managment/Как освоить любую программу.md",
-    "Personal Knowledge Managment/Изучение чего угодно.md",
-    "Personal Knowledge Managment/1.md",
-    "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
-    "Программирование/Тестирование/Postman/Знакомство.md",
-    "Программирование/Тестирование/Вебинары записи/3. Вебинар.md",
-    "Программирование/Тестирование/Вебинары записи/2. Вебинар.md",
-    "Программирование/Тестирование/Вебинары записи/1. Вебинар.md",
-    "Проекты/Youtube Mi11enium/SEO.md",
-    "Проекты/Youtube Mi11enium/Видео.md",
+    "Календарь/Съездить к маму.md",
+    "Битрикс/Настройка SEO данных в инфоблоке.md",
+    "Календарь/Сходить в магазин за тушенкой и сыром с 7 00 до 15 00.md",
+    "Битрикс/Контент-Менеджер/Компоненты/Компоненты.md",
+    "Битрикс/Контент-Менеджер/Компоненты/Дополнительные настройки.md",
+    "Битрикс/Контент-Менеджер/Информационные блоки/Создание и редактирование инфоблока.md",
+    "Битрикс/Контент-Менеджер/Информационные блоки/Типы инфоблоков.md",
+    "Битрикс/Контент-Менеджер/Информационные блоки/Основные настройки.md",
+    "Битрикс/Контент-Менеджер/Информационные блоки/Общий порядок работы с инфоблоками.md",
+    "Битрикс/Контент-Менеджер/Информационные блоки/Как устроены инфоблоки.md",
+    "Битрикс/Контент-Менеджер/Информационные блоки/Информационные блоки.md",
+    "Бизнес/Формулы.md",
     "Бизнес/Аналитика/YouTube/Практические формулы.md",
-    "Программирование/Тестирование/itempuniversity.com/1 Урок.md",
+    "Бизнес/Аналитика/Excel/Добавление числа к диапазону.md",
+    "Программирование/Тестирование/Postman/Знакомство.md",
+    "Бизнес/Свое дело/Первый бизнес.md",
+    "Бизнес/Свое дело/Определение целевой аудитории.md",
+    "Бизнес/Свое дело/Исследование рынка.md",
+    "Бизнес/Свое дело/Идея и исследование рынка.md",
+    "English/Math/Quadrilaterals.md",
+    "English/Testing words/Equivalence partitioning.md",
+    "English/Words/worth.md",
+    "English/Words/upon.md",
+    "English/Words/throw.md",
+    "English/Words/supply.md",
+    "English/Words/suitable.md",
     "Программирование/Тестирование/Postman",
-    "Программирование/Проектирование/SQL.md",
-    "Программирование/Python/Stepik - Поколение python/2 Условный оператор/1. if else.md",
-    "Программирование/Python/Stepik - Поколение python/3 Типы данных/1. float.md",
-    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/7. Ревью.md",
-    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/8. Вложенные циклы.md",
-    "Программирование/Python/Stepik - Поколение python/4 Циклы for и while/3. counter.md",
     "Pasted image 20230516160742.png",
     "Pasted image 20230515223115.png",
     "Pasted image 20230515221624.png",
