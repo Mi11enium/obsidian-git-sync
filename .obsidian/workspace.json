@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Личный бренд/Тело/Лицо.md",
+                "file": "English/Words/desire.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Лицо"
+              "title": "desire"
             }
           }
         ]
@@ -67,7 +67,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -186,10 +187,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f75e5b893c37cff",
+  "active": "67aec1983041f585",
   "lastOpenFiles": [
-    "Личный бренд/Тело/Уход за кожей лица.md",
+    "Pasted image 20250401123818.png",
+    "English/Words/demand.md",
+    "English/Words/consequences.md",
+    "English/Words/certainly.md",
+    "English/Words/admire.md",
+    "English/Words/Actually.md",
+    "English/Words/amber.md",
+    "English/Words/desire.md",
+    "file1.png",
+    "English/Words/comprehensive.md",
     "Личный бренд/Тело/Лицо.md",
+    "Личный бренд/Тело/Уход за кожей лица.md",
     "Личный бренд/Тело/Упражнения.md",
     "Личный бренд/ChatGPT/Обучение.md",
     "Бизнес/Аналитика/YouTube/Практические формулы.md",
@@ -205,15 +216,6 @@
     "Тестирование программного обеспечения/Баги и требования/Что такое баг.md",
     "Тестирование программного обеспечения/Баги и требования/Локализация бага.md",
     "Тестирование программного обеспечения/Баги и требования/Какие бывают требования.md",
-    "Тестирование программного обеспечения/Баги и требования/Жизненный цикл бага.md",
-    "Тестирование программного обеспечения/Баги и требования/Баг-репорт может содержать.md",
-    "Тестирование программного обеспечения/Техники тест-дизайна/Классы эквивалентности.md",
-    "Тестирование программного обеспечения/Тестирование/Жизненный цикл ПО.md",
-    "Тестирование программного обеспечения/Тестирование/Цель тестирования ПО.md",
-    "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md",
-    "Personal Knowledge Managment/Как освоить любую программу.md",
-    "Personal Knowledge Managment/Study technique/Inquiry-based learning.md",
-    "Personal Knowledge Managment/1.md",
     "Picture/Pasted image 20230412222340.png",
     "Picture/Pasted image 20230418230253.png",
     "Picture/Pasted image 20230502201653.png",
@@ -223,7 +225,6 @@
     "Менеджмент/Pics/XML_сущности.png",
     "Менеджмент/Pics/Task.png",
     "Менеджмент/Pics/Software DLC.png",
-    "Менеджмент/Pics/ScrumteamPM.png",
     "Менеджмент/Pics",
     "Программирование/Тестирование/Postman",
     "Программирование/Проектирование/Вебинары",
