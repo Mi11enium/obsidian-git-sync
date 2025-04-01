@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Words/desire.md",
+                "file": "English/Words/Actually.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "desire"
+              "title": "Actually"
             }
           }
         ]
@@ -189,6 +189,11 @@
   },
   "active": "67aec1983041f585",
   "lastOpenFiles": [
+    "English/Words/upon.md",
+    "English/Words/proud.md",
+    "English/Words/modernity.md",
+    "English/Words/invoke.md",
+    "English/Words/desire.md",
     "Pasted image 20250401130845.png",
     "Pasted image 20250401123818.png",
     "English/Words/demand.md",
@@ -197,7 +202,6 @@
     "English/Words/admire.md",
     "English/Words/Actually.md",
     "English/Words/amber.md",
-    "English/Words/desire.md",
     "file1.png",
     "English/Words/comprehensive.md",
     "Личный бренд/Тело/Лицо.md",
@@ -214,9 +218,6 @@
     "Тестирование программного обеспечения/Баги и требования/Что такое требования.md",
     "Тестирование программного обеспечения/Баги и требования/Что такое критичность.md",
     "Тестирование программного обеспечения/Баги и требования/Что такое баг-репорт.md",
-    "Тестирование программного обеспечения/Баги и требования/Что такое баг.md",
-    "Тестирование программного обеспечения/Баги и требования/Локализация бага.md",
-    "Тестирование программного обеспечения/Баги и требования/Какие бывают требования.md",
     "Picture/Pasted image 20230412222340.png",
     "Picture/Pasted image 20230418230253.png",
     "Picture/Pasted image 20230502201653.png",
@@ -224,7 +225,6 @@
     "Picture/Pasted image 20230516160742.png",
     "Менеджмент/Pics/XP.png",
     "Менеджмент/Pics/XML_сущности.png",
-    "Менеджмент/Pics/Task.png",
     "Менеджмент/Pics",
     "Программирование/Тестирование/Postman",
     "Программирование/Проектирование/Вебинары",
