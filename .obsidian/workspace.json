@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Words/desire.md",
+                "file": "English/Words/divorce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "desire"
+              "title": "divorce"
             }
           }
         ]
@@ -58,7 +58,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Поиск"
             }
           },
           {
@@ -87,7 +87,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -203,6 +203,7 @@
   "active": "67aec1983041f585",
   "lastOpenFiles": [
     "English/Words/disease.md",
+    "English/Words/desire.md",
     "English/Words/consequences.md",
     "English/Words/proud.md",
     "Pasted image 20250401123818.png",
@@ -222,7 +223,6 @@
     "English/Words/employment.md",
     "English/Words/efficient.md",
     "English/Words/divorce.md",
-    "English/Words/desire.md",
     "English/Words/certainly.md",
     "English/Words/demand.md",
     "English/Words/comprehensive.md",
