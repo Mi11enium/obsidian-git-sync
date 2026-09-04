@@ -11,10 +11,14 @@
             "id": "67aec1983041f585",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "English/Words/amber.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "amber"
             }
           }
         ]
@@ -36,8 +40,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -64,10 +68,12 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -146,7 +152,7 @@
               "type": "review-queue-list-view",
               "state": {},
               "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "Очередь заметок на повторение"
             }
           },
           {
@@ -158,9 +164,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "eaa498a5012cef99",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -168,46 +184,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "markdown-importer:Open format converter": false,
-      "random-note:Open random note": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "random-note:Открыть случайную заметку": false,
+      "bases:Создать новую базу": false,
+      "obsidian-spaced-repetition:Изучать карточки": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-youglish-plugin:Youglish Plugin": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20dd0f0e9e04fb29",
+  "active": "67aec1983041f585",
   "lastOpenFiles": [
-    "Untitled Kanban 1.md",
-    "Untitled Kanban 2.md",
-    "Untitled Kanban.md",
-    "Быт/Электричество/4. Приборы и инструменты/4.2 Индикаторная отвертка.md",
+    "English/Words/admire.md",
+    "English/Words/Actually.md",
+    "English/Words/desire.md",
+    "English/Words/demand.md",
+    "English/Words/consequences.md",
+    "English/Words/comprehensive.md",
+    "English/Words/certainly.md",
+    "English/Words/amber.md",
+    "English/Words/employment.md",
+    "English/Words/efficient.md",
+    "English/Words/divorce.md",
+    "English/Words/disease.md",
+    "English/Как учить грамматику.md",
+    "English/Как учить слова.md",
+    "English/Math/Quadrilaterals.md",
+    "English/Testing words/Equivalence partitioning.md",
+    "Тестирование программного обеспечения/Виды тестирования ПО/Уровни тестирования ПО/Системное тестирование.md",
+    "Тестирование программного обеспечения/Виды тестирования ПО/Уровни тестирования ПО/Приемочное тестирование.md",
+    "Тестирование программного обеспечения/Виды тестирования ПО/Уровни тестирования ПО/Модульное тестирование.md",
+    "Тестирование программного обеспечения/Виды тестирования ПО/Уровни тестирования ПО/Интеграционное тестирование.md",
+    "Тестирование программного обеспечения/Виды тестирования ПО/Дымовое тестирование.md",
+    "Тестирование программного обеспечения/Виды тестирования ПО/Тестирование установки.md",
+    "Тестирование программного обеспечения/Виды тестирования ПО/Тестирование черного ящика.md",
+    "Тестирование программного обеспечения/Виды тестирования ПО/Функциональное тестирование.md",
+    "Тестирование программного обеспечения/Виды тестирования ПО/Функциональные.md",
+    "Тестирование программного обеспечения/Виды тестирования ПО/Не функциональные.md",
     "Тестирование mentorpiece",
-    "Быт/Электричество/4. Приборы и инструменты/4.3 Автоматические выключатели.md",
-    "Быт/Электричество/1. Основы/1.2 Основные величины.md",
-    "Быт/Электричество/1. Основы/1.3 Закон Ома.md",
-    "Быт/Электричество/1. Основы/1.4. Переменный и постоянный ток.md",
-    "Быт/Электричество/2. Практика/2.2 Как подключить выключатель_розетку.md",
-    "Быт/Электричество/1. Основы/1.1 Что такое электрический ток.md",
-    "Быт/Электричество/4. Приборы и инструменты/4.1 Мультиметр.md",
     "Pasted image 20250425014945.png",
-    "Быт/Электричество/3. Безопасность/3.1 Главные правила.md",
     "Быт/Электричество/electricity_index.canvas",
-    "Быт/Электричество/5. Полезные ресурсы/5.2 Видео-курсы.md",
-    "Быт/Электричество/5. Полезные ресурсы/5.1 Книги и ГОСТы.md",
-    "Быт/Электричество/3. Безопасность/3.3 Как избежать КЗ.md",
-    "Быт/Электричество/3. Безопасность/3.2 Первая помощь при ударе током.md",
-    "Быт/Электричество/2. Практика/2.4 Как заменить лампочку.md",
-    "Быт/Электричество/2. Практика/2.3 Почему выбивает автомат.md",
-    "Быт/Электричество/2. Практика/2.1 Розетки и провода.md",
-    "Тестирование программного обеспечения/Тестирование/Тестирование ПО.md",
     "Быт/Электричество/5. Полезные ресурсы",
     "Быт/Электричество/4. Приборы и инструменты",
     "Быт/Электричество/3. Безопасность",
@@ -215,12 +238,6 @@
     "Быт/Электричество/1. Основы",
     "Быт/Электричество",
     "Быт",
-    "Мнемотехника/Память/Штаты США.md",
-    "Мнемотехника/Память/Память.md",
-    "Книги/Как выбрать книгу.md",
-    "Разное/Все подряд.md",
-    "Программирование/Изучение/Как правильно изучать программирование.md",
-    "Программирование/1C/Youtube - уроки.md",
     "Pasted image 20250401130845.png",
     "Pasted image 20250401170346.png",
     "Pasted image 20250401123818.png",
